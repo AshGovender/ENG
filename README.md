@@ -1,5 +1,8 @@
 
 # [Python Based Evaporation Loss Calculator](https://github.com/TheProcessBoy/Evaporation-Loss-Calculations)
+
+![](/assets/img/case-study-solvent-tank.jpg)
+
 ## Problem Statement
 There was huge losses in solvent that could not be accounted for. As a result, all avenues of solvent loss needed to be catered for. Solvent losses are possible through open tanks and could have possibly been contributing to the variance identified.
 
