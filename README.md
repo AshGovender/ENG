@@ -1,5 +1,5 @@
 
-# [Python Based Evaporation Loss Calculator](https://github.com/TheProcessBoy/Evaporation-Loss-Calculations)
+# [Project 1: Python Based Evaporation Loss Calculator](https://github.com/TheProcessBoy/Evaporation-Loss-Calculations)
 
 ![](/assets/img/case-study-solvent-tank.jpg)
 
@@ -21,22 +21,10 @@ Matplotlib
 ## Data science tool
 None
 
-# [Stock Health Improvement Project ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
+
+# [Project 2: Stock Health Improvement Project ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
 In this project I used a DMAIC approach together with data science tools to process data and come up with a reason for the poor stock health 
 
 ![](/assets/img/Capture.PNG)
 
-# [Stock Health Improvement Project ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
-In this project I used a DMAIC approach together with data science tools to process data and come up with a reason for the poor stock health 
 
-![](https://github.com/TheProcessBoy/Pragesh_Portfolio/blob/main/images/Capture4.PNG)
-
-# [Stock Health Improvement Project ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
-In this project I used a DMAIC approach together with data science tools to process data and come up with a reason for the poor stock health 
-
-![](https://github.com/TheProcessBoy/Pragesh_Portfolio/blob/main/images/Capture4.PNG)
-
-# [Stock Health Improvement Project ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
-In this project I used a DMAIC approach together with data science tools to process data and come up with a reason for the poor stock health 
-
-![](https://github.com/TheProcessBoy/Pragesh_Portfolio/blob/main/images/Capture4.PNG)
