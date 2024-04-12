@@ -25,6 +25,6 @@ None
 # [Project 2: Stock Health Improvement Project ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
 In this project I used a DMAIC approach together with data science tools to process data and come up with a reason for the poor stock health 
 
-![](/assets/img/Capture.PNG)
+![](/assets/img/Stockhealth.PNG)
 
 
