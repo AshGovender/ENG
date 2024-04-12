@@ -37,10 +37,10 @@ Utilized production planning data, sales data, SKU Master data, Forecast data, s
 
 ## Results 
 The combined approach of lean six sigma and data analysis yielded positive results. Results showed that there were several issues :
-> Forecast values missing for certain products - this list was sent and corrected by the forecasting team (Quick win)
-> Scheduling unable to build stock to plan as a result of production capacity issues - manpower shift alignment was done to ensure no rollovers
-> Forecasting inaccuracies - this was taken as a side project to optimize forecast accuracy on the selected products
-> Filling bottleneck i.e. filling unable to start batch on time due to reprioritization - capacity increased on the plant through a side project that looked at nozzil optimization, faster hopper fill rate, SMED practices.
+> * Forecast values missing for certain products - this list was sent and corrected by the forecasting team (Quick win)
+> * Scheduling unable to build stock to plan as a result of production capacity issues - manpower shift alignment was done to ensure no rollovers
+> * Forecasting inaccuracies - this was taken as a side project to optimize forecast accuracy on the selected products
+> * Filling bottleneck i.e. filling unable to start batch on time due to reprioritization - capacity increased on the plant through a side project that looked at nozzil optimization, faster hopper fill rate, SMED practices.
 
 ## Python libraries
 Matplotlib, Pandas, Numpy, itertools
