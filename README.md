@@ -58,7 +58,7 @@ Company X had several customer complaints issues and wanted to develop a cluster
 ## Task/Action
 My task was to develop a clustering algorithm that looked at customer returns data and develop a clustering alogorithm to group the data accordingly to gain further insight into the customer complaints experienced. Since it was numerical data, A K-modes algorithm was utilized to develop the clusters. The algorithm starts by picking some random points which will be considered the first cluster centers (centroids). In other words, the clusters will be defined based on the number of matching categories between data points that means using the highest frequency to form the clusters. As in more categories two points overlap, the higher their probability to belong to the same cluster. Below indicates the process:
 
-
+![](/assets/img/Picture1.png)
 
 
 ## Data sources
