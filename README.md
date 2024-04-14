@@ -16,10 +16,10 @@ Plant data such as tank dimensions, thicknesses and design factors were obtained
 The caculations showed negligible losses of solvent from the tanks, hence we could rule this out as a potential issue for the solvent losses. After re-looking at the process we found that losses were attributed to calibration issues during PLC loading of solvent.
 
 ## Python libraries
-Matplotlib
+Math
 
 ## Data science Methods
-None
+Functions
 
 
 # [Project 2: Stock Health Improvement Project ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
