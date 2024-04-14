@@ -47,7 +47,7 @@ Matplotlib, Pandas, Numpy, itertools
 ## Data science Methods
 Feature addition, feature extraction, data merging, data visualization, data aggregation, data transformation(column renaming, column splitting)
 
-# [Project 3: Customer Complaints Clustering Model ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
+# [Project 3: Customer Complaints Clustering Model ](https://github.com/TheProcessBoy/Customer-Complaints-)
 
 ![](/assets/img/Main.PNG)
 
