@@ -1,4 +1,4 @@
-
+![image](https://github.com/TheProcessBoy/Pragesh_Portfolio/assets/86879764/07d2f4ca-6bf2-43df-a4d8-42b7574e13b2)
 # [Project 1: Python Based Evaporation Loss Calculator](https://github.com/TheProcessBoy/Evaporation-Loss-Calculations)
 
 ![](/assets/img/case-study-solvent-tank.jpg)
@@ -47,4 +47,34 @@ Matplotlib, Pandas, Numpy, itertools
 
 ## Data science Methods
 Feature addition, feature extraction, data merging, data visualization, data aggregation, data transformation(column renaming, column splitting)
+
+# [Project 3: Customer Complaints Clustering Model ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
+
+![](/assets/img/Stockhealth.PNG)
+
+## Problem Statement
+Company X had several customer complaints issues and wanted to develop a clustering model to cluster their different customer complaints group to get an indication of how to handle each group.
+
+## Task/Action
+My task was to develop a clustering algorithm that looked at customer returns data and develop a clustering alogorithm to group the data accordingly to gain further insight into the customer complaints experienced. Since it was numerical data, A K-modes algorithm was utilized to develop the clusters. The algorithm starts by picking some random points which will be considered the first cluster centers (centroids). In other words, the clusters will be defined based on the number of matching categories between data points that means using the highest frequency to form the clusters. As in more categories two points overlap, the higher their probability to belong to the same cluster. Below indicates the process:
+
+
+
+
+## Data sources
+Utilized customer complaints data from the call centre, production planning and MasterSKU data
+
+## Results 
+The results were as follows :
+> * Forecast values missing for certain products - this list was sent and corrected by the forecasting team (Quick win)
+> * Scheduling unable to build stock to plan as a result of production capacity issues - manpower shift alignment was done to ensure no rollovers
+> * Forecasting inaccuracies - this was taken as a side project to optimize forecast accuracy on the selected products
+> * Filling bottleneck i.e. filling unable to start batch on time due to reprioritization - capacity increased on the plant through a side project that looked at nozzil optimization, faster hopper fill rate, SMED practices.
+
+## Python libraries
+Matplotlib, Pandas, Numpy, itertools
+
+## Data science Methods
+Feature addition, feature extraction, data merging, data visualization, data aggregation, data transformation(column renaming, column splitting)
+
 
