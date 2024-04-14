@@ -1,4 +1,3 @@
-![image](https://github.com/TheProcessBoy/Pragesh_Portfolio/assets/86879764/07d2f4ca-6bf2-43df-a4d8-42b7574e13b2)
 # [Project 1: Python Based Evaporation Loss Calculator](https://github.com/TheProcessBoy/Evaporation-Loss-Calculations)
 
 ![](/assets/img/case-study-solvent-tank.jpg)
