@@ -60,6 +60,11 @@ My task was to develop a clustering algorithm that looked at customer returns da
 
 ![](/assets/img/Picture1.png)
 
+Drawback of K-Modes is that we need to input the final number of clusters by which to split the data points
+To find the optimum number of splits, the Elbow method with the cost function is used. A cost function to determine how scattered the points are from the cluster needs to be established. The lower the cost, the nearer the points in the cluster. With K-Means the Euclidean distance is used whereas in K-Modes, it is replaced by the Hamming distance  
+∑_(𝑖=1)^𝑛▒∑_(𝑖=1)^𝑘▒𝑑_𝑥𝑐 
+
+By plotting the cost function against the number of clusters, an elbow should be found. During the clusters number growth, there is a point where the drop starts to change smoothly, and the increase of k does not give significant improvements. The number where the cost begins to slightly decrease is the number that best fits data-set sub-grouping 
 
 ## Data sources
 Utilized customer complaints data from the call centre, production planning and MasterSKU data
