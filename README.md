@@ -50,7 +50,7 @@ Feature addition, feature extraction, data merging, data visualization, data agg
 
 # [Project 3: Customer Complaints Clustering Model ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
 
-![](/assets/img/Stockhealth.PNG)
+![](/assets/img/Main.PNG)
 
 ## Problem Statement
 Company X had several customer complaints issues and wanted to develop a clustering model to cluster their different customer complaints group to get an indication of how to handle each group.
@@ -71,15 +71,16 @@ Utilized customer complaints data from the call centre, production planning and 
 
 ## Results 
 The results were as follows :
-> * Forecast values missing for certain products - this list was sent and corrected by the forecasting team (Quick win)
-> * Scheduling unable to build stock to plan as a result of production capacity issues - manpower shift alignment was done to ensure no rollovers
-> * Forecasting inaccuracies - this was taken as a side project to optimize forecast accuracy on the selected products
-> * Filling bottleneck i.e. filling unable to start batch on time due to reprioritization - capacity increased on the plant through a side project that looked at nozzil optimization, faster hopper fill rate, SMED practices.
+> * 3 clusters were developed
+> * Each cluster had a specific sales category and a major bulk purchaser attributed to it
+> * Each cluster indicated product specific issues and problematic customers to be addressed that were frequently returning items for no real reason and as a result of their poor forecasting
+> * The data also pointed to sales reps that were not effectively controlling the customer complaints returns processes i.e. they were approving all returns without a proper investigation
+> * The most problematic customers in terms of returns were also identified
 
 ## Python libraries
-Matplotlib, Pandas, Numpy, itertools
+Matplotlib, Pandas, Numpy, itertools, K-modes algorithm
 
 ## Data science Methods
-Feature addition, feature extraction, data merging, data visualization, data aggregation, data transformation(column renaming, column splitting)
+Dimensional reduction(feature addition), data imputation and cleaning(removing null values), feature selection,
 
 
