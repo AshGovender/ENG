@@ -84,7 +84,7 @@ Dimensional reduction(feature addition), data imputation and cleaning(removing n
 
 # [Project 4: Customer Quality Complaints NPL Model ](https://github.com/TheProcessBoy/Customer-Complaints-)
 
-![](/assets/img/Main.PNG)
+![](/assets/img/Paint.jpg)
 
 ## Problem Statement
 Company X had issues with classifying their customer complaints into specific groupings. Grouping would help them identify problematic issues that they should focus their efforts on resolving.
