@@ -82,7 +82,7 @@ Matplotlib, Pandas, Numpy, itertools, K-modes algorithm
 ## Data science Methods
 Dimensional reduction(feature addition), data imputation and cleaning(removing null values), feature selection.
 
-# [Project 4: Customer Quality Complaints NPL Model ](https://github.com/TheProcessBoy/Customer-Complaints-)
+# [Project 4: Customer Quality Complaints NPL Model ](https://github.com/TheProcessBoy/Customer-Quality)
 
 ![](/assets/img/Paint.jpg)
 
