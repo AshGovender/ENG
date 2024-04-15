@@ -80,6 +80,28 @@ The results were as follows :
 Matplotlib, Pandas, Numpy, itertools, K-modes algorithm
 
 ## Data science Methods
-Dimensional reduction(feature addition), data imputation and cleaning(removing null values), feature selection,
+Dimensional reduction(feature addition), data imputation and cleaning(removing null values), feature selection.
+
+# [Project 4: Customer Quality Complaints NPL Model ](https://github.com/TheProcessBoy/Customer-Complaints-)
+
+![](/assets/img/Main.PNG)
+
+## Problem Statement
+Company X had issues with classifying their customer complaints into specific groupings. Grouping would help them identify problematic issues that they should focus their efforts on resolving.
+
+## Task/Action
+My task was to develop a NPL model(sentiment analysis) to identify what customer complaints descriptions correlate to which customer issue. 
+
+## Data sources
+Utilized customer complaints data quality data from the call centre
+
+## Results 
+The resulting model could classify new customer orders into their relevant quality reason code groupings. This saves manual labor time and allows concentrated efforts on specific quality reason codes e.g. Bittyness was found to be a recurring issue across a certain range of product and upon closer observation it was found that a raw material change resulted in the recurring issue. After implementing changes on a recipe level, the problem was not a recurring theme in upcoming customer quality complaints.
+
+## Python libraries
+
+
+## Data science Methods
+
 
 
