@@ -108,7 +108,7 @@ Text preparation (conversion to lower case, removing stop words, removing whites
 
 # [Project 5: Stroke Prediction Using a Binary Classification Model ](https://github.com/TheProcessBoy/Customer-Quality)
 
-![](/assets/img/Paint.jpg)
+![](/assets/img/Stroke.jpg)
 
 ## Problem Statement
 Stroke is a serious condition that affects millions of people in the world. Although its exact causes can't be pinned down to specific issues, there are potential physiological and lifestyle characteristics that could put a person at greater risk of having it. However many people are not aware of these factors and how they can contribute to the likelihood of getting cancer.
