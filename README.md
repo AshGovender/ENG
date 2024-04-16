@@ -90,7 +90,7 @@ Dimensional reduction(feature addition), data imputation and cleaning(removing n
 Company X had issues with classifying their customer complaints into specific groupings. Grouping would help them identify problematic issues that they should focus their efforts on resolving.
 
 ## Task/Action
-My task was to develop a NPL model(sentiment analysis) to identify what customer complaints descriptions correlate to which customer issue. 
+My task was to develop a NPL model(Multi-class text classification) to identify what customer complaints descriptions correlate to which customer issue. The text was first cleaned and tokenized before being converted to numerical values for classification. The conversion to numerical values was done using the TF-IDF Vectorizer. The data was split into a training and test set before fitting various models (logistic regression, SVM, decision trees, Naive Bayes. The model were then tuned using the GridsearchCV method and the LeaveOneOut() cross validation method. Each models accuracy was calculated and remaining F1, Precision and accuracy scores were calculated for the best performing models using a classfication report. 
 
 ## Data sources
 Utilized customer complaints data quality data from the call centre
@@ -98,10 +98,13 @@ Utilized customer complaints data quality data from the call centre
 ## Results 
 The resulting model could classify new customer orders into their relevant quality reason code groupings. This saves manual labor time and allows concentrated efforts on specific quality reason codes e.g. Bittyness was found to be a recurring issue across a certain range of product and upon closer observation it was found that a raw material change resulted in the recurring issue. After implementing changes on a recipe level, the problem was not a recurring theme in upcoming customer quality complaints.
 
-## Python libraries
+The model was best fitted with a SVM and decision tree algorithm, however certain classes were under-represented and therefore more data collection is needed to improve the model reliability.
 
+## Python libraries
+Sklearn( DecisionTreeClassifier,metrics, naive_bayes,svm,model_selection,feature_extraction.text), matplotlib, seaborne, Pandas, Numpy,nltk(tokenize,corpus,stem)
 
 ## Data science Methods
+Text preparation (conversion to lower case, removing stop words, removing whitespaces and punctuation, tokenization, lemmatization), training and test split, model tuning, model fitting, cross-fitting, model evaluation
 
 
 
