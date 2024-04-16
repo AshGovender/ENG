@@ -111,10 +111,10 @@ Text preparation (conversion to lower case, removing stop words, removing whites
 ![](/assets/img/Paint.jpg)
 
 ## Problem Statement
-Cancer is a serious condition that affects millions of people in the world. Although its exact causes can't be pinned down to specific issues, there are potential physiological and lifestyle characteristics that could put a person at greater risk from having it. However many people are not aware of these factors and how they can contribute to the likelihood of getting cancer.
+Stroke is a serious condition that affects millions of people in the world. Although its exact causes can't be pinned down to specific issues, there are potential physiological and lifestyle characteristics that could put a person at greater risk of having it. However many people are not aware of these factors and how they can contribute to the likelihood of getting cancer.
 
 ## Task/Action
-As part of my Masters in biomechatronics, I developed a ML model that was initially hosted on MS Azure and consumed by a MA. The model was re-produced on python and is basically looked at classifying whether a person is likely to have cancer based on various different factors.
+As part of my Masters in biomechatronics, I developed a ML model that was initially hosted on MS Azure and consumed by a Mobile & web application developed. The model was re-produced on python and is basically looked at classifying whether a person is likely to get a stroke based on various different factors.
 
 ## Data Sources
 
