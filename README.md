@@ -63,7 +63,9 @@ Drawback of K-Modes is that we need to input the final number of clusters by whi
 To find the optimum number of splits, the Elbow method with the cost function is used. A cost function to determine how scattered the points are from the cluster needs to be established. The lower the cost, the nearer the points in the cluster. With K-Means the Euclidean distance is used whereas in K-Modes, it is replaced by the Hamming distance  
 ∑_(𝑖=1)^𝑛▒∑_(𝑖=1)^𝑘▒𝑑_𝑥𝑐 
 
-By plotting the cost function against the number of clusters, an elbow should be found. During the clusters number growth, there is a point where the drop starts to change smoothly, and the increase of k does not give significant improvements. The number where the cost begins to slightly decrease is the number that best fits data-set sub-grouping 
+By plotting the cost function against the number of clusters, an elbow should be found. During the clusters number growth, there is a point where the drop starts to change smoothly, and the increase of k does not give significant improvements. The number where the cost begins to slightly decrease is the number that best fits data-set sub-grouping. For the given project, the curve levelled off at around a K value of 7 which indicated optimum number of clusters.
+
+Exploratory data analysis was done on the individual dataframes and then joined together and filtered based on necessary columns to create one dataset and the model was fitted with the data using a K value of 7. Other intial model parameters were selected based on best practice.
 
 ## Data sources
 Utilized customer complaints data from the call centre, production planning and MasterSKU data
@@ -87,10 +89,10 @@ Dimensional reduction(feature addition), data imputation and cleaning(removing n
 ![](/assets/img/Paint.jpg)
 
 ## Problem Statement
-Company X had issues with classifying their customer complaints into specific groupings. Grouping would help them identify problematic issues that they should focus their efforts on resolving.
+Company X had issues with classifying their customer complaints into specific groupings on a manual basis. Grouping would help them identify problematic issues that they should focus their efforts on resolving. Although the team had worked to create a comprehensive labelled dataset, this was becoming a laborious task to re-label new data from the call centre.
 
 ## Task/Action
-My task was to develop a NPL model(Multi-class text classification) to identify what customer complaints descriptions correlate to which customer issue. The text was first cleaned and tokenized before being converted to numerical values for classification. The conversion to numerical values was done using the TF-IDF Vectorizer. The data was split into a training and test set before fitting various models (logistic regression, SVM, decision trees, Naive Bayes. The model were then tuned using the GridsearchCV method and the LeaveOneOut() cross validation method. Each models accuracy was calculated and remaining F1, Precision and accuracy scores were calculated for the best performing models using a classfication report. 
+My task was to develop a NPL model(Multi-class text classification) to identify what customer complaints descriptions correlate to which customer issue. The text was first cleaned and tokenized before being converted to numerical values for classification. The conversion to numerical values was done using the TF-IDF Vectorizer. The data was split into a training, test and validation set before fitting various models (random forest, SVM, decision trees, Naive Bayes. The model were then tuned using the GridsearchCV method and the LeaveOneOut() cross validation method. Each models accuracy was calculated and remaining F1, Precision and accuracy scores were calculated for the best performing models using a classfication report. A correlation matrix was also done.
 
 ## Data sources
 Utilized customer complaints data quality data from the call centre
@@ -104,7 +106,7 @@ The model was best fitted with a SVM and decision tree algorithm, however certai
 Sklearn( DecisionTreeClassifier,metrics, naive_bayes,svm,model_selection,feature_extraction.text), matplotlib, seaborne, Pandas, Numpy,nltk(tokenize,corpus,stem)
 
 ## Data science Methods
-Text preparation (conversion to lower case, removing stop words, removing whitespaces and punctuation, tokenization, lemmatization), training and test split, model tuning, model fitting, cross-fitting, model evaluation
+Text preparation (conversion to lower case, removing stop words, removing whitespaces and punctuation, tokenization, lemmatization), training and test split, model tuning, model fitting, cross-fitting, model evaluation, exploratory data analysis
 
 # [Project 5: Stroke Prediction Using a Binary Classification Model ](https://github.com/TheProcessBoy/Customer-Quality)
 
@@ -114,16 +116,16 @@ Text preparation (conversion to lower case, removing stop words, removing whites
 Stroke is a serious condition that affects millions of people in the world. Although its exact causes can't be pinned down to specific issues, there are potential physiological and lifestyle characteristics that could put a person at greater risk of having it. However many people are not aware of these factors and how they can contribute to the likelihood of getting cancer.
 
 ## Task/Action
-As part of my Masters in biomechatronics, I developed a ML model that was initially hosted on MS Azure and consumed by a Mobile & web application developed. The model was re-produced on python and is basically looked at classifying whether a person is likely to get a stroke based on various different factors.
+As part of my Masters in biomechatronics, I developed a ML model that was initially hosted on MS Azure and consumed by a Mobile & web application developed. The model was re-produced on python and is basically looked at classifying whether a person is likely to get a stroke based on various different factors. The data was cleaned and exploratory data analysis was used to identify patterns in the features and in relation to the target variable. The categorical data was one-hot-encoded after removing outliers and normalizing the dataset. A smote analysis was also used to rectify the imbalanced dataset. A train, test and validation data split was done. The various models were tuned using GridsearchCV and the k-folds algorithm. 
 
 ## Data Sources
-
+Online medical health repository
 
 ## Results 
-
+The classification scoring was done and showed that the model was good at predicting negative cases however data imbalance in the test set showed a weak model in predicting the postive class. A learning curve showed that more data was required to improve the model with more positive case predictions required to strenghthen the models ability to predict the positive stroke class.
 
 ## Python libraries
-Sklearn( DecisionTreeClassifier,metrics, naive_bayes,svm,model_selection,feature_extraction.text), matplotlib, seaborne, Pandas, Numpy,nltk(tokenize,corpus,stem)
+Sklearn( DecisionTreeClassifier,metrics, naive_bayes,svm,model_selection,feature_extraction.text), matplotlib, seaborne, Pandas, Numpy etc.
 
 ## Data science Methods
-Text preparation (conversion to lower case, removing stop words, removing whitespaces and punctuation, tokenization, lemmatization), training and test split, model tuning, model fitting, cross-fitting, model evaluation
+Text cleaning, SMOTE analysis, training and test split, model tuning, model fitting, cross-fitting(k-folds), model evaluation, exploratory data analysis
