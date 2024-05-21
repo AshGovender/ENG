@@ -1,3 +1,5 @@
+
+
 # Courses
 > * [Data Science Methadology (Coursera - IBM)] - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/NXGZBLFKJ8QR)
 > * Machine Learning With Python (Coursera - IBM) - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/VZTZQQPXC4SB))
@@ -165,3 +167,45 @@ PyPI(pymsavis) for MSA ,scipy(stats) for capability analysis & hypothesis testin
 
 ## Data Analytics Methods
 Text cleaning, exploratory data analysis, hypothesis testing, MSA, statistical and graphical analysis
+
+
+# Project 7: Boiler Optimization and Environmental Compliance
+
+![](/assets/img/Boiler.PNG)
+
+## Problem Statement
+The boiler at Kansai plascon was not adhering to environmental compliance in terms of particulate matter and sulphur dioxide fumes. This was resulting in fines and other prosecutions on site until compliance could be achieved. In addition, the boiler was operating inefficiently resulting in an increase of operating cost.
+
+## Task/Action
+My role as process engineer was to assist the SHERQ department in not only ensuring adherence to environmental regulations but also to improve efficiencies in the boiler to reduce cost. The following was achieved:
+
+> * Walked the process and developed a P&ID representing the system
+> * Developed a mass balance to account for water and steam losses
+> * Identified and mitigated issues for loss of steam, loss of condensate, increase fuel usage, particulate matter and sulphur dioxide increases
+> * Developed a comprehensive report back to management for changes to be complete
+> * Carried out implementations
+> * Improvement of risk assessments, FMEA
+> * SOP modifications
+> * Improvement of plant maintenance schedules
+> * Carried out steam and energy calculations
+> * Installed new measurement devices and carried out a guage R&R study to ensure reliability of measurement system
+
+Key implementations:
+> * Re-designed maintenance schedules to reduce fowling in the boiler to improve heat transfer and reduce fuel usage
+> * Identified condensate losses which resulted in wastage of heat and treatment chemicals through steam trap damage and incorrect condensate recovery control logic
+> * Ensure air/fuel ration was corrected which fixed the particulate matter issue
+> * did a cost benefit analysis and implemented a new fuel changeover from HFO to LFO that resulted in sulphur dioxide emissions compliance without a significant capex and operating cost
+> * Led the installation of an autoflam unit which ensured optimized air fuel ratio and reduced fuel usage
+> * Led the correction of the steam control system which ensure optimum maintenance of feedwater to the boiler reducing fuel necessary to heat the water to saturated steam
+> * All steam trap and leaking lines were fixed resulting in optimum condensate recovery as well as steam
+> * Carried out various engineering calculations to quanitify and identify cost savings and benefits analysis
+> * Assisted with 
+
+## Data Sources
+Operational reports, meter readings, operator reports
+
+## Software libraries
+Excel was utilized for all calculations, Visio for P&ID
+
+## Data Analytics Methods
+Statistical and graphical analysis, mass and energy balances
