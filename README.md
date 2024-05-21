@@ -135,3 +135,33 @@ Sklearn( DecisionTreeClassifier,metrics, naive_bayes,svm,model_selection,feature
 
 ## Data science Methods
 Text cleaning, SMOTE analysis, training and test split, model tuning, model fitting, cross-fitting(k-folds), model evaluation, exploratory data analysis
+
+
+
+# Project 6: Backorder Reduction Using DMAIC Methadology
+
+![](/assets/img/backorder-tag-feature.jpg)
+
+## Problem Statement
+Backorders at a paint company was resulting in 50 million rands loss of revenue. This was also resulting in poor customer satisfaction and poor service levels. With impending market share competition, this needs to be resolved to ensure mainteanance and further entry into the market.
+
+## Task/Action
+As part of my positions as process engineer, I worked with the head of supply chain as project lead to employ the DMAIC methadology to reduce backorders through identification and mitigation of pertinent issues. The tools below were used:
+
+* Define: developed project charter, benefits analysis, Pareto analysis to identify focus area, high level process map, VOC, CTQ's, Metrics Tracking, tollgate review
+* Measure: Detailed swimlane, SIPOC analysis, Gemba walks, 8 waste identification, Value stream mapping, Spaghetti diagram, MSA and capability analysis, tollgate review
+* Analysze: Potential X's(Fish bone diagram), XY diagram (vital few X's), Root cause analysis, graphical and statistical analysis,hypothesis testing, FMEA development
+* Improve: 5s and flow implementation, Kanban development, Correlation and regression, Pilot testing, Solution development using thinking methods and implementation
+* Control: Mistake proofing, Visual management controls, Statistical Process Control, updating of SOP's, Control Plans, Training and handover, tollgate review
+
+## Data Sources
+Backorder reports, Sales Reports (Qlikview and SAP)
+
+## Results 
+The backorder investigation identified various reasons for backorders across the value chain. This included issues with forecasting and sales, as well as production related issues for certain process streams, stock health issues, lead time issues, production complexities. Mitigation measures were put in place such as capacity and manpower increases in certain sections, forecast accuracy improvements, re-adjustment of stock health monitoring tool zones, lead time adjustments, recipe formulation changes and product cycle time improvements. Overall loss of sales revenue reduces by 15% compared to the benchmark year and ultimately increased capacity in pivotal process streams.
+
+## Python libraries
+PyPI(pymsavis) for MSA ,scipy(stats) for capability analysis & hypothesis testing & SPC, matplotlib, seaborne, Pandas, Numpy etc.
+
+## Data Analytics Methods
+Text cleaning, exploratory data analysis, hypothesis testing, MSA, statistical and graphical analysis
