@@ -1,4 +1,9 @@
+# Academic Qualifications
+> * Bsc. Chemical Engineering
+> * Msc. Mechatronics Engineering
 
+# Licenses and Certificates
+> * Lean Six Sigma Greenbelt
 
 # Courses
 > * [Data Science Methadology (Coursera - IBM)] - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/NXGZBLFKJ8QR)
