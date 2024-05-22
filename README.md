@@ -1,14 +1,16 @@
 # Academic Qualifications
 > * Bsc. Chemical Engineering
 > * Msc. Mechatronics Engineering
+<br />
 
 # Licenses and Certificates
 > * Lean Six Sigma Greenbelt
+<br />
 
 # Courses
 > * [Data Science Methadology (Coursera - IBM)] - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/NXGZBLFKJ8QR)
 > * Machine Learning With Python (Coursera - IBM) - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/VZTZQQPXC4SB))
-
+<br />
 
 
 # [Project 1: Python Based Evaporation Loss Calculator](https://github.com/TheProcessBoy/Evaporation-Loss-Calculations)
@@ -33,6 +35,8 @@ Math
 ## Data science Methods
 Functions
 
+<br />
+<br />
 
 # [Project 2: Stock Health Improvement Project ](https://github.com/TheProcessBoy/Stock-Health-Improvement)
 
@@ -59,6 +63,9 @@ Matplotlib, Pandas, Numpy, itertools
 
 ## Data science Methods
 Feature addition, feature extraction, data merging, data visualization, data aggregation, data transformation(column renaming, column splitting)
+
+<br />
+<br />
 
 # [Project 3: Customer Complaints Clustering Model ](https://github.com/TheProcessBoy/Customer-Complaints-)
 
@@ -97,6 +104,9 @@ Matplotlib, Pandas, Numpy, itertools, K-modes algorithm
 ## Data science Methods
 Dimensional reduction(feature addition), data imputation and cleaning(removing null values), feature selection.
 
+<br />
+<br />
+
 # [Project 4: Customer Quality Complaints NPL Model ](https://github.com/TheProcessBoy/Customer-Quality)
 
 ![](/assets/img/Paint.jpg)
@@ -121,6 +131,9 @@ Sklearn( DecisionTreeClassifier,metrics, naive_bayes,svm,model_selection,feature
 ## Data science Methods
 Text preparation (conversion to lower case, removing stop words, removing whitespaces and punctuation, tokenization, lemmatization), training and test split, model tuning, model fitting, cross-fitting, model evaluation, exploratory data analysis
 
+<br />
+<br />
+
 # [Project 5: Stroke Prediction Using a Binary Classification Model ](https://github.com/TheProcessBoy/Customer-Quality)
 
 ![](/assets/img/Stroke.jpg)
@@ -143,7 +156,8 @@ Sklearn( DecisionTreeClassifier,metrics, naive_bayes,svm,model_selection,feature
 ## Data science Methods
 Text cleaning, SMOTE analysis, training and test split, model tuning, model fitting, cross-fitting(k-folds), model evaluation, exploratory data analysis
 
-
+<br />
+<br />
 
 # Project 6: Backorder Reduction Using DMAIC Methadology
 
@@ -173,6 +187,8 @@ PyPI(pymsavis) for MSA ,scipy(stats) for capability analysis & hypothesis testin
 ## Data Analytics Methods
 Text cleaning, exploratory data analysis, hypothesis testing, MSA, statistical and graphical analysis
 
+<br />
+<br />
 
 # Project 7: Boiler Optimization and Environmental Compliance
 
@@ -214,3 +230,9 @@ Excel was utilized for all calculations, Visio for P&ID
 
 ## Data Analytics Methods
 Statistical and graphical analysis, mass and energy balances
+
+<br />
+<br />
+
+# Project 8: Maintenance System Upgrade
+![](/assets/img/Planned.PNG)
