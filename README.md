@@ -284,4 +284,37 @@ Data visualization
 
 ![](/assets/img/PA.PNG)
 
+## Problem Statement
+The planned adherence within the Johannesburg and DBN site of Kansai Plascon was poor and lacked a common measurement tool to account for the complexities within scheduling and planning.
+
+## Task/Action
+My role as process engineer was to assist the head of supply chain with streamlining and addressing issues with the entire value chain to effectively identify and mitigate issues with the poor plan adherence. As part of this iniative, I developed a tool to measure planned adherence and schedule adherence separately while also considering batches that were pushed forwards or backwards. The following was done:
+
+>* had a massive brown paper session in both the JHB and DBN sites including all stakeholders across the value chain: manufacturing, filling, maintenance, raw materials, procurement, supply chain, MRP, planning and scheduling and factory technical - this was to identify the current state, brainstorm gaps and develop a future state and develop a plan of action based on findings
+>* Worked with team to action plans to improve planned adherence through strategic projects at each department
+>* Developed a measuring tool for planned and schedule adherence and benchmarked across both sites - this highlighted a critical finding that schedule adherence was not the issue but rather planned adherence as opposed to prior beliefs
+>* Communicated findings to director of operations
+
+Key Implementations:
+>* Standardization of planned adherence measure
+>* Finite planning (including re-order level management of INT's, MPS with frozen reliable planned elements)
+>* Scheduling optimization (backward scheduling, scheduling based on constraints, factoring re-work times, Heijunkai, develop buffer for raws)
+>* QC projects (stricter rejection policies, establishment of escalation protocol for long adjustment times, calculation of exact quantity of packaging required, establishing scap rates for adjustment material, different recipe versions on SAP,prediction around first adjustments)
+>* Procurement projects (assign packaging to batches and reconcile)
+>* Labelling (trigger points for labelling)
+>* Inspection of QI system fails
+>* Manufacturing issues (improve nossil inefficiencies, improve lead time for grind batches, improve expediting with online tools, reduce expired raws on site, run plant in full auto)
+>* Physical validations before sign-off
+>* fix of master data to align schedule time with product lead time
+
+
+
+
+
+
+
+
+
+
+
 
