@@ -282,4 +282,6 @@ Data visualization
 
 # Project 9: Planned Adherence Optimization Using Lean Six Sigma Approach
 
+![](/assets/img/PA.PNG)
+
 
