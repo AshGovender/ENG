@@ -107,7 +107,7 @@ Dimensional reduction(feature addition), data imputation and cleaning(removing n
 
 # [Project 4: Customer Quality Complaints NPL Model ](https://github.com/TheProcessBoy/Customer-Quality)
 
-![](/assets/img/Paint.jpg)
+![](/assets/img/NLP.png)
 
 ## Problem Statement
 Company X had issues with classifying their customer complaints into specific groupings on a manual basis. Grouping would help them identify problematic issues that they should focus their efforts on resolving. Although the team had worked to create a comprehensive labelled dataset, this was becoming a laborious task to re-label new data from the call centre.
@@ -134,7 +134,7 @@ Text preparation (conversion to lower case, removing stop words, removing whites
 
 # [Project 5: Stroke Prediction Using a Binary Classification Model ](https://github.com/TheProcessBoy/Customer-Quality)
 
-![](/assets/img/Stroke.jpg)
+![](/assets/img/ML.PNG)
 
 ## Problem Statement
 Stroke is a serious condition that affects millions of people in the world. Although its exact causes can't be pinned down to specific issues, there are potential physiological and lifestyle characteristics that could put a person at greater risk of having it. However many people are not aware of these factors and how they can contribute to the likelihood of getting cancer.
@@ -159,7 +159,7 @@ Text cleaning, SMOTE analysis, training and test split, model tuning, model fitt
 
 # Project 6: Backorder Reduction Using DMAIC Methadology
 
-![](/assets/img/backorder-tag-feature.jpg)
+![](/assets/img/Back.PNG)
 
 ## Problem Statement
 Backorders at a paint company was resulting in 50 million rands loss of revenue. This was also resulting in poor customer satisfaction and poor service levels. With impending market share competition, this needs to be resolved to ensure mainteanance and further entry into the market.
@@ -200,7 +200,7 @@ My role as process engineer was to assist the SHERQ department in not only ensur
 
 > * Walked the process and developed a P&ID representing the system
 > * Developed a mass balance to account for water and steam losses
-> * Identified and mitigated issues for loss of steam, loss of condensate, increase fuel usage, particulate matter and sulphur dioxide increases
+> * Identified and mitigated issues for loss of steam (steam survey), loss of condensate, increase fuel usage, particulate matter and sulphur dioxide increases
 > * Developed a comprehensive report back to management for changes to be complete
 > * Carried out implementations
 > * Improvement of risk assessments, FMEA
@@ -210,15 +210,14 @@ My role as process engineer was to assist the SHERQ department in not only ensur
 > * Installed new measurement devices and carried out a guage R&R study to ensure reliability of measurement system
 
 Key implementations:
-> * Re-designed maintenance schedules to reduce fowling in the boiler to improve heat transfer and reduce fuel usage
+> * Re-designed maintenance schedules to reduce fowling in the boiler and improve chemical treatment to improve heat transfer and reduce fuel usage
 > * Identified condensate losses which resulted in wastage of heat and treatment chemicals through steam trap damage and incorrect condensate recovery control logic
-> * Ensure air/fuel ration was corrected which fixed the particulate matter issue
+> * Ensured air/fuel ratio was corrected which fixed the particulate matter issue
 > * did a cost benefit analysis and implemented a new fuel changeover from HFO to LFO that resulted in sulphur dioxide emissions compliance without a significant capex and operating cost
 > * Led the installation of an autoflam unit which ensured optimized air fuel ratio and reduced fuel usage
-> * Led the correction of the steam control system which ensure optimum maintenance of feedwater to the boiler reducing fuel necessary to heat the water to saturated steam
+> * Led the correction of the steam control system which ensured optimum maintenance of feedwater to the boiler reducing the amount of fuel required to heat the water to saturated steam
 > * All steam trap and leaking lines were fixed resulting in optimum condensate recovery as well as steam
 > * Carried out various engineering calculations to quanitify and identify cost savings and benefits analysis
-> * Assisted with 
 
 ## Data Sources
 Operational reports, meter readings, operator reports
@@ -233,4 +232,54 @@ Statistical and graphical analysis, mass and energy balances
 <br />
 
 # Project 8: Maintenance System Upgrade
-![](/assets/img/Planned.PNG)
+
+![](/assets/img/Maintenance.PNG)
+
+## Problem Statement
+The maintenance system at Kansai Plason was suffering from several operational issues that were resulting increased downtimes and lack of traceability. Upon further investigation it was found that the planned maintenance system was not working effectively and there was no maintenance reporting tool that was available to identify an mitigate maintenance related job card issues. 
+
+## Task/Action
+My role as process engineer was to assist the maintenance department by redesigning the planned mainteance system as well as developing a reporting tool that would allow for transparency within the maintenance department. The following was done:
+
+PM Restructure: 
+> * Reviewed maintenance process and SAP structure with MES engineer and TL
+> * Developed "As is Process" flow with gaps
+> * Developed "To be" process flow
+> * Developed  "Future state" process flow
+> * Developed and reviewed final process flow with stakeholders and developed an action list
+> * Extracted information from SAP transaction showing PM's over the last few years and created an Excel based databack showing gaps in data structure
+> * Developed an equipment KPI tree to determine resources on site
+> * Developed and utilized an equipment frequency matrix to determine gaps in PM alerts and to reassign frequencies based on legal and operational requirements, remove redundant PM activities and include missing PM's based on all equipment identified
+> * Worked with MES engineer to redesign and install functional locations based on site plan and SAP rules
+> * Created and Excel based control document for PM Checksheets, PM's and functional locations that would work in tandem with SAP to streamline planned maintenance activities
+>* worked with team to carry out detailed analysis of PM tasks for each checksheet (required indepth plant study of exactly what maintenance would be required for each piece of equipment based on OHSA and operational requirements for various frequencies)
+>* Installed new equipment, PM's onto SAP
+> * Training and SOP modification
+
+Maintenance Analytics:
+> * Identified SAP sources of maintenance info and generated a draft visual dashboard of key KPI's
+> * Reviewed changes and ammended with key stakeholders
+> * Trial tool and made ammendments
+> * Creation of final dashboard
+> * Created and enforce correct data entry on SAP with mistake proofing
+> * Training and handover
+
+Key Implementations:
+> * Developed a maintenance reporting tool which was capable of identifying job card related information such as overdue job cards, employee utilization, scheduled vs unscheduled maintenance, employee utilization, sections and equipment with the most breakdowns etc. This tool helped with cost savings and job card closure rate
+> * Re-designed the planned maintenance system which effectively reduced plant downtimes through effective scheduled maintenance 
+
+## Data Sources
+SAP
+
+## Software libraries
+Excel for development of maintenance reporting tool, Visio for flowcharts, SAP for system integration
+
+## Data Analytics Methods
+Data visualization
+
+<br />
+<br />
+
+# Project 9: Planned Adherence Optimization Using Lean Six Sigma Approach
+
+
