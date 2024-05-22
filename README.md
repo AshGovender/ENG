@@ -3,20 +3,20 @@
 > * Msc. Mechatronics Engineering
 
 <br />
-<br />
+
 
 # Licenses and Certificates
 > * Lean Six Sigma Greenbelt
 
 <br />
-<br />
+
 
 # Courses
 > * [Data Science Methadology (Coursera - IBM)] - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/NXGZBLFKJ8QR)
 > * Machine Learning With Python (Coursera - IBM) - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/VZTZQQPXC4SB))
 
 <br />
-<br />
+
 
 # [Project 1: Python Based Evaporation Loss Calculator](https://github.com/TheProcessBoy/Evaporation-Loss-Calculations)
 
