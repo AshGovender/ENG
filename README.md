@@ -307,14 +307,41 @@ Key Implementations:
 >* Physical validations before sign-off
 >* fix of master data to align schedule time with product lead time
 
+## Data Sources
+SAP, SAP(MII), Qlikview
 
+## Software libraries
+Excel for development of reporting tool, Visio for flowcharts
 
+<br />
+<br />
 
+# Project 10: Solvent Recycling Plant Optimization
 
+![](/assets/img/Solvent.PNG)
 
+## Problem Statement
+The solvent recycling plant at kansai plascon was not producing the desired recovery quality of solvent. This was resulting in more money being spent on buying virgin solvent. In addition to this, operators complained that the fumes released by the system was not in compliance
 
+## Task/Action
+My role as process engineer was to investigate and resolve environmental compliance issues as well as improve the efficiency of the system. A mass balance was carried out on the system as well as a kaizen walk. The tool showed that recovery rate was poor because the upstream processes were sending through much more dirtier solvent compared to the past, the settling tanks were not working which means heavier solids were not separated and lastly the handling mechanism for dirty solvent was no longer active. This coupled with the fact that the solvent recyclers were not optimized in terms of settings. 
 
+Key implementations:
+> through trials optimum setting were established
+> Re-commissioning and maintenance of the settling tanks significantly improved pre-treatment reducing the strain on solvent recycling machines
+> Upstream processes were instructed to not use solvent on too many runs of cleaning to reduce the dirtiness of the solvent
+> Maintenance assisted with fixing the handling mechanism for the solvent recyclers
 
+## Results
+All the above actions were addressed which increased the solvent recovery reclaimation rate by 30%. A future study was then done to utilize unoccupied reactor to carry out solvent recycling which completely eliminated the need for virgin solvent purchasing and drastically reduced the cost of solvent recyling.
 
+## Data Sources
+Plant meters
+
+## Software libraries
+Excel 
+
+<br />
+<br />
 
 
