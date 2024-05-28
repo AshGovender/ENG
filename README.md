@@ -273,6 +273,8 @@ Excel, Python, AutoCad, Visio
 
 # Project 7: Cost Savings Process Improvement Headed by CFO
 
+![](/assets/img/CostSavings.PNG)
+
 ## Problem Statement
 There was massive pressure on the Kansai Plascon SA group to reduce cost to maintain profitability.
 
