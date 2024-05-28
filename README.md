@@ -301,3 +301,47 @@ Plant meters, SAP, MII
 
 ## Software libraries
 Excel, Python, Visio
+
+<br />
+<br />
+
+
+# Project 7: Cooling Tower Optimization for Cost Savings and Efficiency
+
+![](/assets/img/Cooling.jpg)
+
+## Problem Statement
+The Cooling Towers at Kansai plascon were not operating efficiently resulting in an increase of operating cost.
+
+## Task/Action
+My role as process engineer was to the operations manager to optimize the cooling towers for efficiency and cost reduction
+
+> * Walked the process and developed a P&ID representing the system
+> * Developed a mass balance to account for water losses
+> * Identified and mitigated issues for poor efficiency and cooling as well as increased cost
+> * Developed a comprehensive report back to management for changes to be complete
+> * Carried out implementations
+> * Improvement of risk assessments, FMEA
+> * SOP modifications
+> * Improvement of plant maintenance schedules
+> * Carried out cooling tower efficiency calculations to quantify benefits
+> * Installed new measurement devices and carried out a guage R&R study to ensure reliability of measurement system
+
+Key implementations:
+> * Re-designed maintenance schedules to reduce fowling in the cooling tower and improve chemical treatment to improve cooling and reduce energy use
+> * Identified issues for fowling such as inadequate blowdown and poor chemical treatment - fixing this improved efficiency 
+> * Varied the chemical usage based on months when bacterial growth varies and this resulted in cost savings of chemical treatment
+> * Investigated the option of VSD for the fans to optimize energy use and reduce cost
+
+## Data Sources
+Operational reports, meter readings, operator reports
+
+## Software libraries
+Excel was utilized for all calculations, Visio for P&ID
+
+## Data Analytics Methods
+Statistical and graphical analysis, mass and energy balances
+
+<br />
+<br />
+
