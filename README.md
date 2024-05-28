@@ -198,4 +198,72 @@ Excel
 <br />
 <br />
 
+# Project 6: Cycle Time Reduction Using Lean Six Sigma & Theory of Constraints
 
+![](/assets/img/Cycle2.PNG)
+
+## Problem Statement
+Cycle times for the Durban and Johannesburg plants were too high - this was resulting in an increased in backorders and affecting the activity costing model negatively.
+
+## Task/Action
+My role as process engineer was to lead a cross functional team (maintenance, production, filling, packaging, raws and procurement) to effectively identify issues with cycle time and reduce this accordingly. By job was also to establish a tracking measure to identify improvement over time. The following was accomplished:
+
+>* Developed the sites first statistical process control model and rolled out in both Johannesburg and Durban sites
+>* Developed a annual reporting measure using MES data and carried out monthly reporting and troubleshooting with team to identify and mitigate issues
+>* Tracked and worked with team to implement various projects
+
+Example implementations:
+>* Implementation of Overall Equipment effectiveness (OEE) in filling hall
+>* Carried out a detailed capacity calculation across the manufacturing floor to identify bottleneck streams and re-assign capacity and manpower
+>* Implemented a finite capacity scheduling modelling which improved scheduling while controlling cycle time
+>* Optimized fill rates with nossil optimization and best practice maintenance
+>* Carried out a finishing tank optimization exercise to reduce head losses and improve filling line hopper filling
+>* Developed a pressure drop model which was used in the Johannesburg new automated robotics line
+>* Implemented improved campaign scheduling on the shop floor
+>* Implemented andon lights to identify when beads need changing as well as various 5s and 7W projects
+>* Changed over from pot washing to high pressure cleaning which improved clean pot throughput and improved quality
+
+
+## Results
+Managed to reach a 10% reduction in average cycle times across the Johannesburg and Durban sites.
+
+## Data Sources
+Plant meters
+
+## Software libraries
+Excel, Python
+
+<br />
+<br />
+
+# Project 7: Paint Floor Re-design
+
+![](/assets/img/Layout2.PNG)
+
+## Problem Statement
+The manufacturing floor was not meeting the production volumes required and this was resulting in increased backorders and customer disatisfaction
+
+## Task/Action
+My role as process engineer was re-design the paint floor considering future capacity requirements while also ensuring adherence to quality requirements. The following high level activities were done:
+
+>* Analyze Product Mix: Review the current and planned product mix to understand the variety and volume of products.
+Determine Economic Batch Quantities (EBQ): Calculate EBQ for each product to optimize production efficiency and minimize costs.
+>* Evaluate Existing Equipment: Assess the compatibility and capacity of existing equipment with the new product mix and production requirements.
+Identify Equipment Gaps: Identify any equipment that needs upgrading or replacement to meet the new requirements.
+>* Determine Production Capacities: Calculate the required production capacities based on product demand and EBQ.
+>* Plan for Capacity Expansion: Develop a plan for expanding capacities, including the addition of new equipment or modifications to existing equipment.
+>* Develop Functional Descriptions (FDS):
+>* Process Breakdown: Break down the manufacturing process into individual sequences and operations for each product type.
+>* Component Identification: Identify all components involved, including tanks, mixers, pumps, valves, and instrumentation.
+>* Operation Description: Write detailed descriptions of each operation, including start-up, shut-down, interlocks, alarms, and failure modes.
+>* Sequence of Operations: Define the sequence in which operations will occur for each product type, ensuring proper process flow and safety.
+>* Control Philosophy: Document the overall control philosophy, explaining how the system will achieve control objectives like temperature, pressure, and flow rate control.
+
+## Results
+The new design was able to improve throughput and increased capacity substantially - eliminating a large proportion of backorders preventing profit loss.
+
+## Data Sources
+Plant meters, SAP, MII
+
+## Software libraries
+Excel, Python, AutoCad, Visio
