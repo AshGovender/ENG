@@ -267,3 +267,35 @@ Plant meters, SAP, MII
 
 ## Software libraries
 Excel, Python, AutoCad, Visio
+
+<br />
+<br />
+
+# Project 7: Cost Savings Process Improvement Headed by CFO
+
+## Problem Statement
+There was massive pressure on the Kansai Plascon SA group to reduce cost to maintain profitability.
+
+## Task/Action
+I was given the task to carry out a cross functional process improvement cost reduction initiative on behalf of the site executive. This would involve collaborating with cross functional management teams to identify and carry out projects with cost savings in mind. My job would also be to mentor and guide the team with process improvement methadologies while also carrying out my own improvement initiatives. Consolidated and tracked savings and presented directly to the CFO. 
+
+Example projects:
+>* Waste disposal cost avoidance
+>* Packaging and material reworking initiatives
+>* Solvent reduction and recycling exercises
+>* Formulation changes to optimize recipe cost
+>* Electricity cost reduction
+>* Changeover time reduction
+>* Stock accuracy improvement
+>* Maintenance costs reductions
+>* Supplier cost optimizations
+>* Yield losses reductions
+
+## Results
+Overall the Mobeni site was able to carry out 25 improvement projects with an overall saving of over R25 million rands. 
+
+## Data Sources
+Plant meters, SAP, MII
+
+## Software libraries
+Excel, Python, Visio
