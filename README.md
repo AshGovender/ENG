@@ -198,7 +198,7 @@ Excel
 <br />
 <br />
 
-# Project 6: Cycle Time Reduction Using Lean Six Sigma & Theory of Constraints
+# Project 6: Lead Time Reduction Using Lean Six Sigma & Theory of Constraints
 
 ![](/assets/img/Cycle2.PNG)
 
@@ -216,12 +216,16 @@ Example implementations:
 >* Implementation of Overall Equipment effectiveness (OEE) in filling hall
 >* Carried out a detailed capacity calculation across the manufacturing floor to identify bottleneck streams and re-assign capacity and manpower
 >* Implemented a finite capacity scheduling modelling which improved scheduling while controlling cycle time
+>* Developed an Excel based heijunkai model that was utilized in conjunction with a packaging supplier for load levelling
 >* Optimized fill rates with nossil optimization and best practice maintenance
 >* Carried out a finishing tank optimization exercise to reduce head losses and improve filling line hopper filling
 >* Developed a pressure drop model which was used in the Johannesburg new automated robotics line
 >* Implemented improved campaign scheduling on the shop floor
 >* Implemented andon lights to identify when beads need changing as well as various 5s and 7W projects
 >* Changed over from pot washing to high pressure cleaning which improved clean pot throughput and improved quality
+>* Addressing FTR(first time right) issues
+>* Lean six sigma project to reduce extras (which is left over product in the tank which can't be filled due to incorrect labelled packaging being supplied). This enabled a reduction in lead time
+>* Carried out a PDCA project on slow resins which were resulting in increased cycle times. Evaluated and identified that the resin was thixotropic and heat sensitive and this was not catered for when it was outsourced. The lack of using a thinning time to warm the product as was done on site when it was internally manufactured resulted in colder months making the product much more viscous and slowing the fill rate. Adjusted specification and adjusted pump pressure to cater for the increased head losses. Lab experiments were also done to prove the dependency on temperature. 
 
 
 ## Results
@@ -292,6 +296,7 @@ Example projects:
 >* Maintenance costs reductions
 >* Supplier cost optimizations
 >* Yield losses reductions
+>* Warehouse outsourcing and implementation of a day warehouse to house temporatory product
 
 ## Results
 Overall the Mobeni site was able to carry out 25 improvement projects with an overall saving of over R25 million rands. 
@@ -344,4 +349,17 @@ Statistical and graphical analysis, mass and energy balances
 
 <br />
 <br />
+
+# Project 8: ISO-18001 Recertification
+
+![](/assets/img/18001.png)
+
+## Problem Statement
+The site was at risk of losing it's ISO-18001 certification. This would have resulted in huge fines and also loss of customer faith and market share loss. In addition safety of onsite personnel would not be maintained.
+
+## Task/Action
+My role as process engineer was to assist the SHERQ department as lead in facilitating the effective risk assessment across site. This included gap analysis, technical assistance and consolidating the completion of all risk assessments across site against a stringent 6 month deadline.
+
+## Result
+The site was re-accredited and maintained its ISO-18001 certfication within the designated time frame.
 
