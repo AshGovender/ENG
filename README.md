@@ -311,7 +311,7 @@ Excel, Python, Visio
 <br />
 
 
-# Project 7: Cooling Tower Optimization for Cost Savings and Efficiency
+# Project 8: Cooling Tower Optimization for Cost Savings and Efficiency
 
 ![](/assets/img/Cooling.jpg)
 
@@ -350,7 +350,7 @@ Statistical and graphical analysis, mass and energy balances
 <br />
 <br />
 
-# Project 8: ISO-18001 Recertification
+# Project 9: ISO-18001 Recertification
 
 ![](/assets/img/18001.png)
 
@@ -362,4 +362,59 @@ My role as process engineer was to assist the SHERQ department as lead in facili
 
 ## Result
 The site was re-accredited and maintained its ISO-18001 certfication within the designated time frame.
+
+<br />
+<br />
+
+
+# Project 9: Reactor heating and cooling automation
+
+![](/assets/img/P&ID.PNG)
+
+## Problem Statement
+The Kansai Plascon K6 reactor temperature control has a partial automation. This posed several business risks from an efficiency, safety and ergonomics risk. The reaction within the reactor was highly exothermic, which means that the case of a runaway reaction was possible and in cases such as this a fully automated system would be much more safer as opposed to operators manually operating valves during a dangerous situation that is highly time intensive. 
+
+## Task/Action
+My role as process engineer was to facilitate the automation of the heating and cooling cycle for the reactor considering process and safety requirements. The following was done:
+
+Project scoping/Preliminaries
+>*Evaluate current system of operation and identify issues
+>*Evaluate safety requirements and legislature
+
+Complete preliminary documentation
+>*Project brief
+>*Process flow diagram & P&ID
+>*Control narrative/ functional requriements specification/ control philosophy
+>*Alarm/trip lists
+>*Work with automation to evaluate options
+>*Apply for quotations and selection of suppliers based on cost and quality
+>* Risk assessments
+>* CAPEX application 
+>* CAPEX approval
+
+PLC and SCADA upgrades (outsourced to automation - managed the process)
+>* System capability check and card installation
+>* ladder logic diagrams on PLC
+>* Control tuning
+>* HMI upgrade on SCADA
+>* Testing 
+
+Training and handover
+>* Train opeators on new controls
+>* Observe processes to determine if controls are effective
+>* SOP modifications
+>* FMEA modifications
+
+## Result
+The system changed were achieved within budget
+
+System before changes:
+![](/assets/img/Current.PNG)
+
+<br />
+<br />
+
+System after changes:
+![](/assets/img/Proposed.PNG)
+
 
