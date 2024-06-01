@@ -367,7 +367,7 @@ The site was re-accredited and maintained its ISO-18001 certfication within the 
 <br />
 
 
-# Project 9: Reactor heating and cooling automation
+# Project 9: Reactor heating and cooling automation (Capex: R300000)
 
 ![](/assets/img/P&ID.PNG)
 
@@ -378,16 +378,16 @@ The Kansai Plascon K6 reactor temperature control has a partial automation. This
 My role as process engineer was to facilitate the automation of the heating and cooling cycle for the reactor considering process and safety requirements. The following was done:
 
 Project scoping/Preliminaries
->*Evaluate current system of operation and identify issues
->*Evaluate safety requirements and legislature
+>* Evaluate current system of operation and identify issues
+>* Evaluate safety requirements and legislature
 
 Complete preliminary documentation
->*Project brief
->*Process flow diagram & P&ID
->*Control narrative/ functional requriements specification/ control philosophy
->*Alarm/trip lists
->*Work with automation to evaluate options
->*Apply for quotations and selection of suppliers based on cost and quality
+>* Project brief
+>* Process flow diagram & P&ID
+>* Control narrative/ functional requriements specification/ control philosophy
+>* Alarm/trip lists
+>* Work with automation to evaluate options
+>* Apply for quotations and selection of suppliers based on cost and quality
 >* Risk assessments
 >* CAPEX application 
 >* CAPEX approval
