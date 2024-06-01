@@ -417,4 +417,23 @@ System before changes:
 System after changes:
 ![](/assets/img/Proposed.PNG)
 
+<br />
+<br />
+
+# Project 10: Linear Programming Model to Optimize product mix
+
+![](/assets/img/Linear.PNG)
+
+## Problem Statement
+The Kansai Plascon group was under pressure to reduce cost and improve efficiencies. One such path to that was optimizing product mix to achieve maximum profit.
+
+## Task/Action
+I explored the option of developing a linear programming model within a pilot area (Lean GP section). A model objective function was developed to maximize profit based on all products in the lean GP section. The model was constrained by several factors:
+>* Capacity constraints
+>* Demand constraints
+>* Cost/L constraints
+>* Manpower constraints
+
+## Result
+The exercise was successful in indicating the optimum product mix to achieve the highest cost, however due to customer requirements it was not practical to implement the model results, as the model indicated a higher sales of a product that usually has a lower demand yet higher sale price. The results did however give further insight into SKU rationalization as a potential future activity within the business.
 
