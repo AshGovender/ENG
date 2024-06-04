@@ -460,3 +460,11 @@ Activity rate can be calcualted for each category of fixed, labor and variable c
 
 ## Result
 40-60 % accuracy improvement in model i.e. reduction in under recoveries value.
+
+<br />
+<br />
+
+# Project 10: Industrial Water Base Production Facility (CAPEX - R15 000 000)
+
+## Problem Statement
+The Kansai Plascon group had issues with maintaining waterbase products. A new plant was to be designed and installed to meet requirements.
