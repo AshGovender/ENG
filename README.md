@@ -437,3 +437,26 @@ I explored the option of developing a linear programming model within a pilot ar
 ## Result
 The exercise was successful in indicating the optimum product mix to achieve the highest cost, however due to customer requirements it was not practical to implement the model results, as the model indicated a higher sales of a product that usually has a lower demand yet higher sale price. The results did however give further insight into SKU rationalization as a potential future activity within the business.
 
+
+<br />
+<br />
+
+# Project 10: Product Costing Model Update
+
+![](/assets/img/Activity.PNG)
+
+## Problem Statement
+The Kansai Plascon group had issues with the costing model. 1) The recipe hours were not a true reflection of the physical process. Cost recoveries were low and understated the COGS value of products.
+
+## Task/Action
+Investigate and implemented ways to improve the model. Initially manufacturing overheads was caculated using a fixed dwell time based on the machine hours. So the fixed, variable and labor hours were the same. This was redefined:
+
+Fixed hours: usable machine capacity constrained by bottleneck
+Labor hours: no. of operators * hours per month * efficiency factor
+variable hours: budget hours based on forecast requirements
+
+Recipe hours were split into fixed, labor and variable as opposed to a single dwell time value
+Activity rate can be calcualted for each category of fixed, labor and variable costs which is a better indicator of efficiency and improves costing estimation
+
+## Result
+40-60 % accuracy improvement in model i.e. reduction in under recoveries value.
