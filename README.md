@@ -1,6 +1,10 @@
 # Academic Qualifications
-> * Bsc. Chemical Engineering
-> * Msc. Mechatronics Engineering
+> * Bsc. Chemical Engineering (University of Kwazulu Natal)
+> * Msc. Mechatronics Engineering (University of Kwazulu Natal)
+> * Mediventors Integrated Skills Development Program (University of Cape Town)
+>> * Medical Device Sector Essentials
+>> * Systems Engineering and Product Lifecycle Management
+>> * Tooling, Manufacturing and Industrialization
 
 # Licenses and Certificates
 > * Lean Six Sigma Greenbelt
@@ -8,6 +12,12 @@
 # Courses
 > * [Data Science Methadology (Coursera - IBM)] - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/NXGZBLFKJ8QR)
 > * Machine Learning With Python (Coursera - IBM) - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/VZTZQQPXC4SB))
+> * Lean Six Sigma Yellow Belt (2014) – Dow Chemicals
+> * Other Internal Company Courses (CAPA Work Process Overview, Common Improvement Tools, Exposure to Hazardous Chemicals, Reactive Chemical Training, Fault Tree > > * Analysis, Ergonomic Awareness Training, ISO 14001 Understanding, Root Cause Analysis, Paint Technology, Diversity and Inclusion, Lean Basics (2013-2014)
+> * Pressure Vessel and Tank Design (2017) – Engineers for Africa
+> * Chemical Risk Assessment Masterclass (2022) – Sedulitis
+> * Investigate and Intiate Hearings (2022) - Global Business Solutions
+> * Occupational Health and Safety Act Workshop (2022) - Bosman Attorneys
 
 <br />
 
@@ -464,7 +474,91 @@ Activity rate can be calcualted for each category of fixed, labor and variable c
 <br />
 <br />
 
-# Project 10: Industrial Water Base Production Facility (CAPEX - R15 000 000)
+# Project 10: Water Base Production Facility (CAPEX - R15 000 000)
+
+![](/assets/img/Water.PNG)
 
 ## Problem Statement
 The Kansai Plascon group had issues with maintaining waterbase products. A new plant was to be designed and installed to meet requirements.
+
+## Task/Action
+To design new plant configuration and assist with installation of new plant. The following was accomplished:
+
+* Pre-planning phase (Envisioning)
+>* Completion of Project Brief document
+>* All stake holders endorse Project Brief document
+
+* Design Phase
+>* Product Mix identification & procesing requirements
+>* PFD & Operations Philosophy design
+>* Technology Selection & Equipment Sizing
+>* P&ID and Workflow design
+>* Utilities required
+>* Legal assessments (E.g. EIA)
+>* Equipment Selection
+
+* Approval Phase
+>* RFQ & Costing
+>* Project Execution Plan
+>* Memo of Justification
+>* CAPEX & MOJ Approval
+>* Project approved
+
+* Procurement Phase
+>* Long-lead time items
+>* Local equipment orders
+
+* Execution Phase
+>* Plan submission
+>* EIA & other surveys
+>* Civil Structures & Utilities
+>* Equipment Installation
+>* Automation & SAP
+
+* Commisioning Phase
+>* Plant Commisioning
+>* Snaglist completion
+>* ISO Documents and training
+>* Sign-off & Handover
+
+>* ## Result
+Plant was successfully commissioned within budget.
+
+<br />
+<br />
+
+# Project 11: Water Base Production Facility (CAPEX - R500 000)
+
+![](/assets/img/Dust.PNG)
+
+## Problem Statement
+The Kansai Plascon group was facing audit compliance issues at the RMS in the Mobeni site. The dust emissions were deemed too high for safe work. This posed a hazard to workers
+
+## Task/Action
+To investigate and install a new dust extraction system in RMS powder weighing area to eliminate risk to employees while weighing dangerous powders. To improve overall area to ensure safety and eliminate risk while working. The following was accomplished: 
+
+* Project scoping/preliminaries
+>* Task 1 : on the field observations to determine viability of dust extraction
+>* Task 2 : Develop project brief/scope/initial timelines/ safety concerns & legislation
+>* Task 3 : Determine unit design based on particles being extracted
+>* Task 4 : Confer with contractors about options/configurations (obtain quotes)
+>* Task 5: Choose an appropriate option and design review
+>* Task 6 : Capex application and approval
+>* Task 7: Unit ordering
+>* Task 8: Confirm if old positioning of system is still viable
+>* Task 8 : Risk assessments
+
+* Install local exhaust ventillation (LEV) system
+>* Task 1 : Unit installation (first installation showed poor workmanship - time spent also fixing snags)
+
+*Ensure that relevant SOP's are updated
+>* Task 1 : Determine which SOP's are affected or if it any need to be created
+>* Task 2 : Updating and creating new SOP's
+
+*Train staff on new equipment and protocols/commissioning
+>* Task 1 : Train staff on new equipment
+>* Task 2 : Observe if operators are using equipment correctly/commissioning
+>* Handover
+
+>* ## Result
+Unit was successfully installed and safe operation was achieved. Area was tested and dust levels were within requirement of OHSA.
