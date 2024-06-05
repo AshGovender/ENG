@@ -527,7 +527,7 @@ Plant was successfully commissioned within budget.
 <br />
 <br />
 
-# Project 11: Water Base Production Facility (CAPEX - R500 000)
+# Project 11: RMS Dust Extractor Installation (CAPEX - R500 000)
 
 ![](/assets/img/Dust.PNG)
 
@@ -551,14 +551,14 @@ To investigate and install a new dust extraction system in RMS powder weighing a
 * Install local exhaust ventillation (LEV) system
 >* Task 1 : Unit installation (first installation showed poor workmanship - time spent also fixing snags)
 
-*Ensure that relevant SOP's are updated
+* Ensure that relevant SOP's are updated
 >* Task 1 : Determine which SOP's are affected or if it any need to be created
 >* Task 2 : Updating and creating new SOP's
 
-*Train staff on new equipment and protocols/commissioning
+* Train staff on new equipment and protocols/commissioning
 >* Task 1 : Train staff on new equipment
 >* Task 2 : Observe if operators are using equipment correctly/commissioning
 >* Handover
 
->* ## Result
+## Result
 Unit was successfully installed and safe operation was achieved. Area was tested and dust levels were within requirement of OHSA.
