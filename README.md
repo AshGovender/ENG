@@ -562,3 +562,20 @@ To investigate and install a new dust extraction system in RMS powder weighing a
 
 ## Result
 Unit was successfully installed and safe operation was achieved. Area was tested and dust levels were within requirement of OHSA.
+
+
+# Feasibility Studies
+
+![](/assets/img/Dust.jpg)
+
+The following feasibility studies were done to assist R&D, operations and manufacturing to make decisions and implement projects:
+
+* Benefits of outsourcing filling operations e.g. 1L lines
+* Removal or replacement of raws in batches and its effect on cost e.g. INT replacement
+* Determining feasibility of new equipment installation of efficency and cost e.g. introduction of a bag destuffing unit
+* Switch pot cleaning from pot cleaner to HP cleaning and its effect on cost
+* Boiler fuel replacement
+* Recipe formulation changes and its impact
+* Effect of changing product streams
+* Effect and benefit of increasing capacity on a particular stream
+* Moving products to other sites e.g. Durban to PE and its impact
