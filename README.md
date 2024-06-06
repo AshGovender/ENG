@@ -566,7 +566,7 @@ Unit was successfully installed and safe operation was achieved. Area was tested
 
 # Feasibility Studies
 
-![](/assets/img/Dust.jpg)
+![](/assets/img/Feasibility.jpg)
 
 The following feasibility studies were done to assist R&D, operations and manufacturing to make decisions and implement projects:
 
