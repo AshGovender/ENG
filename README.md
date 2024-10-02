@@ -342,11 +342,33 @@ My role as process engineer was to the operations manager to optimize the coolin
 > * Carried out cooling tower efficiency calculations to quantify benefits
 > * Installed new measurement devices and carried out a guage R&R study to ensure reliability of measurement system
 
+## Understanding the Chemical Engineering Processes
+>* The cooling capacity of the cooling tower can be given by the equation:
+
+![image](https://github.com/user-attachments/assets/dc40fd8f-bbe1-4c7b-9444-438c3b576ecf)
+
+>* Based on this equation, you can see that the total amount of heat removed by the cooling tower (cooling capacity) is dependent on the flowrate as well as the inlet temperature of the water
+>* Lowering the flowrate will improve heat transfer between the water and the air, due to longer time in contact, but it also means less water moves through the cooling tower and the total heat removed will decrease
+>* Lowering the inlet water temperature can help reduce the water outlet temperature since less heat will have to be removed to reach target temperature
+
+![image](https://github.com/user-attachments/assets/566c0411-7975-4223-bcd3-fef1aedd19d4)
+
+>* Increasing the air flow will increase the cooling efficiency, but also increase the fan power at a cubic increase. This means a balance must be achieved.
+
+![image](https://github.com/user-attachments/assets/92e1484e-3506-481e-944a-7a629d9806a9)
+
+>* the effectiveness of the cooling tower is defined as the actual change in temperature over the approach ( the max amount of heat that can be removed due to the wet bulb temperature)
+>* The wet bulb temperature is the lowest temperature that can be achieved due to evaporative cooling. It is dependent on the humidity and temperature of the air
+
+
+
 Key implementations:
 > * Re-designed maintenance schedules to reduce fowling in the cooling tower and improve chemical treatment to improve cooling and reduce energy use
 > * Identified issues for fowling such as inadequate blowdown and poor chemical treatment - fixing this improved efficiency 
 > * Varied the chemical usage based on months when bacterial growth varies and this resulted in cost savings of chemical treatment
-> * Investigated the option of VSD for the fans to optimize energy use and reduce cost
+> * Investigated the option of VSD for the fans to optimize energy use, improve efficiency. Increasing the fan airflow increases the rate of heat transfer but increases fan power with the cube of airflow. VSD's can balance this
+> * Optimizing of the water flow rate was done. Reducing the water flow rate increases the residence time in the cooling tower, improving heat transfer but also reducing the cooling capacity (rate of cooled water leaving the tower)
+> * Looking at ensuring maintenance of the filling - was able to improve heat transfer efficiency 
 
 ## Data Sources
 Operational reports, meter readings, operator reports
