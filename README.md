@@ -347,28 +347,30 @@ My role as process engineer was to the operations manager to optimize the coolin
 
 ![image](https://github.com/user-attachments/assets/dc40fd8f-bbe1-4c7b-9444-438c3b576ecf)
 
->* Based on this equation, you can see that the total amount of heat removed by the cooling tower (cooling capacity) is dependent on the flowrate as well as the inlet temperature of the water
->* Lowering the flowrate will improve heat transfer rate, due to higher resonance time
->* as well as cooling efficiency(lower outlet temp). but it also means less water moves through the cooling tower and the total heat removed will decrease (cooling capacity)
->* Lower flowrate will increase the outlet temperature increasing log temperature and thereby improving cooling rate which increases the efficiency as shown in second equation below but will decrease the mass flowrate as shown in eq 1 decreasing cooling capacity
+>* Decreasing the flowrate of water, decreases the cooling capacity but increases the heat transfer as a result of increase in resonance time - more contact time between water and cold air
+>* The design cooling capacity of the cooling tower is the maximum capacity that can be reached based on conditions at the time e.g. inlet temp, wet bulb temperature, filling etc.
+>* The actual cooling capacity is what the tower can actually do with inefficiencies
+>* The heat load calculated also by mcpdeltaT is what heat removal is required by the cooling tower
+>* If the cooling tower can't match this - the output temperature required would not be reached in the given time
+>* Reducing the inlet temperature with pre-processing can reduce heat load required by cooling tower.
 
 ![image](https://github.com/user-attachments/assets/f6381561-f6a6-4741-9b32-9d22c58c7951)
 
 >* the heat transfer rate can be given by the above equation, as can be seen, the larger the surface area for heat transfer the greater the Q
->* The heat transfer coefficient can be improved and hence improve heat transfer efficiency. This can be done by improving fluid properties(viscosity, thermal conductivity) and flow patterns (turbulent or laminar)
->* Lowering the inlet water temperature can help reduce the water outlet temperature since less heat will have to be removed to reach target temperature
->* Fluids with higher specific heat can absorb more heat without a significant temperature rise
->* Fowling reduces the heat transfer area affecting the Q value (cooling efficiency)
+>* Heat transfer area can be improved by increasing the tower height, packing and decreasing the fowling and scaling which decreases the area
+>* The fowling can be prevented by making sure there is sufficient blowdown and chemical treatement/dosing
+>* When the heat transfer rate increases, the cooling capacity increases
 
 ![image](https://github.com/user-attachments/assets/566c0411-7975-4223-bcd3-fef1aedd19d4)
 
->* Increasing the air flow will increase the cooling efficiency, but also increase the fan power at a cubic increase. This means a balance must be achieved.
+>* Increasing the air flow will increase the cooling efficiency by increasing the heat transfer coefficient, but also increase the fan power at a cubic increase. This means a balance must be achieved.
 >* Increasing the fan speed wil increase airflow increasing the heat transfer coefficient and log temp which increases the heat transfer rate and hence the efficiency will be improved
 
 ![image](https://github.com/user-attachments/assets/92e1484e-3506-481e-944a-7a629d9806a9)
 
 >* the efficienct of the cooling tower is defined as the actual change in temperature over the approach ( the max amount of heat that can be removed due to the wet bulb temperature)
 >* The wet bulb temperature is the lowest temperature that can be achieved due to evaporative cooling. It is dependent on the humidity and temperature of the air
+>* you can change the location of the cooling tower to increase the wet bulb temperature and approach thus increasing the potential cooling capacity
 >* The mass balance equation is given below:
 
 ![image](https://github.com/user-attachments/assets/dccd4ef6-7fcc-4dc8-bfec-64079fb2891e)
