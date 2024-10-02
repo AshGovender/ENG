@@ -348,8 +348,16 @@ My role as process engineer was to the operations manager to optimize the coolin
 ![image](https://github.com/user-attachments/assets/dc40fd8f-bbe1-4c7b-9444-438c3b576ecf)
 
 >* Based on this equation, you can see that the total amount of heat removed by the cooling tower (cooling capacity) is dependent on the flowrate as well as the inlet temperature of the water
->* Lowering the flowrate will improve heat transfer between the water and the air, due to longer time in contact, but it also means less water moves through the cooling tower and the total heat removed will decrease
+>* Lowering the flowrate will improve heat transfer efficiency between the water and the air, due to longer time in contact, but it also means less water moves through the cooling tower and the total heat removed will decrease
+>* Lower flowrate will increase the outlet temperature increasing log temperature and thereby improving cooling efficiency as shown in second equation below but will decrease the mass flowrate as shown in eq 1 decreasing cooling capacity
+
+![image](https://github.com/user-attachments/assets/f6381561-f6a6-4741-9b32-9d22c58c7951)
+
+>* the heat transfer efficiency can be given by the above equation, as can be seen, the larger the surface area for heat transfer the greater the Q
+>* The heat transfer coefficient can be improved and hence improve heat transfer efficiency. This can be done by improving fluid properties(viscosity, thermal conductivity) and flow patterns (turbulent or laminar)
 >* Lowering the inlet water temperature can help reduce the water outlet temperature since less heat will have to be removed to reach target temperature
+>* Fluids with higher specific heat can absorb more heat without a significant temperature rise
+>* Fowling reduces the heat transfer area affecting the Q value (cooling efficiency)
 
 ![image](https://github.com/user-attachments/assets/566c0411-7975-4223-bcd3-fef1aedd19d4)
 
@@ -359,8 +367,11 @@ My role as process engineer was to the operations manager to optimize the coolin
 
 >* the effectiveness of the cooling tower is defined as the actual change in temperature over the approach ( the max amount of heat that can be removed due to the wet bulb temperature)
 >* The wet bulb temperature is the lowest temperature that can be achieved due to evaporative cooling. It is dependent on the humidity and temperature of the air
+>* The mass balance equation is given below:
 
+![image](https://github.com/user-attachments/assets/dccd4ef6-7fcc-4dc8-bfec-64079fb2891e)
 
+>* This can tell us if there is significant loss in system e.g. blowdown or drift losses or insufficient make up water replenishment
 
 Key implementations:
 > * Re-designed maintenance schedules to reduce fowling in the cooling tower and improve chemical treatment to improve cooling and reduce energy use
