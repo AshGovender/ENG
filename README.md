@@ -76,6 +76,10 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 
 ![image](https://github.com/user-attachments/assets/ac903ea9-51d9-4534-9506-fe5324ed3a3c)
 
+>* the optimum blowdown rate can be given by:
+
+![image](https://github.com/user-attachments/assets/9f49e522-0c6b-498a-8df6-89504da90a45)
+
 >* Adjusting fuel source - effect on calorific value. Cleaner fuel has lower sulphur dioxide (good for emission reduction) but more expensive. Need balance.
 >* The overall boiler efficiency can be given by:
 
@@ -100,6 +104,11 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 
 ![image](https://github.com/user-attachments/assets/033a6e64-c911-413b-832d-e96fda88ee45)
 ![image](https://github.com/user-attachments/assets/468cbe77-83c7-4338-8ad2-012036dcd60f)
+
+>* the temperature of steam can be given by:
+
+![image](https://github.com/user-attachments/assets/8516df9f-e3ef-4150-a926-a86da257514b)
+
 
 ## What can typically go wrong in a fire tube boiler:
 >* Fouling and scaling (due to inadequate water treatment or blowdown)
