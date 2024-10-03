@@ -377,6 +377,17 @@ My role as process engineer was to the operations manager to optimize the coolin
 
 >* This can tell us if there is significant loss in system e.g. blowdown or drift losses or insufficient make up water replenishment
 
+What typical operational issues to look out for:
+>* poor airflow as a result of blockages in air inlets, fans, or fill material due to debris, dirt, or mechanical issues
+>* Excessive drift from too high airflow or drift eliminators not working efficiently
+>* Corrosion from corrosive nature of water - can occur due to lack of corrosion inhibitors during treatment. Can lead to structural damage, leaks and equipment failure
+>* Biological growth causing fowling as a result of incorrect treatment and lack of sufficient blowdown
+>* Excessive water loss due to too much blowdown, or drift or leaks
+>* Airflow reduction from mechanical issues in fans and motors
+>* Improper water distribution as a result of spray nozzles not working efficiently results in hot spots and reduces cooling efficiency
+>* Make-up water not at the required quality resulting in scale build up etc.
+>* Temperature control issues for measurement of inlet and outlet water temperature.
+
 Key implementations:
 > * Re-designed maintenance schedules to reduce fowling in the cooling tower and improve chemical treatment to improve cooling and reduce energy use
 > * Identified issues for fowling such as inadequate blowdown and poor chemical treatment - fixing this improved efficiency 
