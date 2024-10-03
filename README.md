@@ -64,14 +64,55 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 
 ![image](https://github.com/user-attachments/assets/d83cf46d-4cbc-4974-9e2f-42c31373a692)
 
->* Optimizing the air fuel ratio - mimimizes excess air which increases efficiency by reducing heat loss throught the flu gas
+>* Optimizing the air fuel ratio - mimimizes excess air which increases efficiency by reducing heat loss throught the flu gas. Excess air absorbs more heat, too little air results in incomplete combustion, reducing efficiency and increasing pollutants.
+>* Reduce flu gas temperature - need to be hot enough to prevent condensation of acids but low enought to prevent excessive heat loss
 >* This can be automated with control systems for controlling air and fuel supply (also saving fuel costs)
 >* Prior to this tuning of the burner can be done - for optimal combustion while reducing PPM emissions
 >* To recover heat: can ensure optimal condensate recovery (stream traps working well, condensate sending water to make-up water tanks), installation of economizers to re-use heat from waste gas to heat make-up water
 >* Ensure water treatment is working effectively - to prevent scaling and corrosion. Monitor PH, dissolved solids and alkalinity of boiler water regularly
 >* heat loss minimization: repair leaks in steam system, use insulation on piping
 >* Proper planned maintenance to monitor blowdown, and boiler health
->* Adjusting fuel source - effect on calorific value
+>* The heat lost due to blowdown can be given by the equation below:
+
+![image](https://github.com/user-attachments/assets/ac903ea9-51d9-4534-9506-fe5324ed3a3c)
+
+>* Adjusting fuel source - effect on calorific value. Cleaner fuel has lower sulphur dioxide (good for emission reduction) but more expensive. Need balance.
+>* The overall boiler efficiency can be given by:
+
+![image](https://github.com/user-attachments/assets/cb6db5ad-671d-4216-80df-f6e03b7f390f)
+
+>* the same logic of heat transfer as cooling towers applies. The heat load is how much heat transfer is required to produce required steam and the boiler capacity (mcpdeltaT) must provide this
+>* At the same time boiler heat transfer rate is important (UAdeltTLm)
+>* Increasing boiler water flowrate increases heat transfer rate but reduces boiler capacity as less water is going throught the boiler - however a balance between these two are required
+>* The efficiency however is calculated differently:
+
+![image](https://github.com/user-attachments/assets/b8bc41d8-47c1-4497-832f-d9684c60d8dd)
+
+>* where the fuel energy input is given by:
+
+![image](https://github.com/user-attachments/assets/3694f7ac-5d0a-4329-aa2b-4356d1a877e7)
+
+>* the mass balance equation across the boiler is given by:
+
+![image](https://github.com/user-attachments/assets/8fe40089-1d5f-4e9a-a4a7-82fe3e3fad8e)
+
+>* the energy balance equation across the boiler is given by:
+
+![image](https://github.com/user-attachments/assets/033a6e64-c911-413b-832d-e96fda88ee45)
+![image](https://github.com/user-attachments/assets/468cbe77-83c7-4338-8ad2-012036dcd60f)
+
+## What can typically go wrong in a fire tube boiler:
+>* Fouling and scaling (due to inadequate water treatment or blowdown)
+>* Water levels too low (leading to tube exposes to excess heat - resulting in tube rupturing or boiler blowing up)
+>* Corrosion on boiler internals due to water quality and inadequate treatment
+>* Soot accumulation of fire tube surfaces affecting heat transfer (due to incorrect air/fuel ratio)
+>* Pressure build up as a result of pressure safety valves not working effectively
+>* Inadequate airflow resulting in incomplete combustion
+>* Excessive airflow leading to excess heat loss and PPM levels exceeding legislative requirements
+>* Thermals stresses on fire tubes as a result of sudden temperature changes e.g. feed water temp
+>* water quality or water carry over issues e.g. incorrect steam traps/seperation equipment
+
+
 
 ## Task/Action
 My role as process engineer was to assist the SHERQ department in not only ensuring adherence to environmental regulations but also to improve efficiencies in the boiler to reduce cost. The following was achieved:
