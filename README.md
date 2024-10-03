@@ -59,6 +59,20 @@ Text cleaning, exploratory data analysis, hypothesis testing, MSA, statistical a
 ## Problem Statement
 The boiler at Kansai plascon was not adhering to environmental compliance in terms of particulate matter and sulphur dioxide fumes. This was resulting in fines and other prosecutions on site until compliance could be achieved. In addition, the boiler was operating inefficiently resulting in an increase of operating cost.
 
+## Understanding the chemical engineering processes:
+>* the boiler efficiency can be calculated using the equation below:
+
+![image](https://github.com/user-attachments/assets/d83cf46d-4cbc-4974-9e2f-42c31373a692)
+
+>* Optimizing the air fuel ratio - mimimizes excess air which increases efficiency by reducing heat loss throught the flu gas
+>* This can be automated with control systems for controlling air and fuel supply (also saving fuel costs)
+>* Prior to this tuning of the burner can be done - for optimal combustion while reducing PPM emissions
+>* To recover heat: can ensure optimal condensate recovery (stream traps working well, condensate sending water to make-up water tanks), installation of economizers to re-use heat from waste gas to heat make-up water
+>* Ensure water treatment is working effectively - to prevent scaling and corrosion. Monitor PH, dissolved solids and alkalinity of boiler water regularly
+>* heat loss minimization: repair leaks in steam system, use insulation on piping
+>* Proper planned maintenance to monitor blowdown, and boiler health
+>* Adjusting fuel source - effect on calorific value
+
 ## Task/Action
 My role as process engineer was to assist the SHERQ department in not only ensuring adherence to environmental regulations but also to improve efficiencies in the boiler to reduce cost. The following was achieved:
 
