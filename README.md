@@ -88,6 +88,10 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 >* the same logic of heat transfer as cooling towers applies. The heat load is how much heat transfer is required to produce required steam and the boiler capacity (mcpdeltaT) must provide this
 >* At the same time boiler heat transfer rate is important (UAdeltTLm)
 >* Increasing boiler water flowrate increases heat transfer rate but reduces boiler capacity as less water is going throught the boiler - however a balance between these two are required
+>* Important to note that flow patterns affect the overall heat transfer coefficient
+>* Higher flowrate results in turbulent flow which increaseses the temperature gradient at the surface due to more mixing
+>* Lower flowrate results in laminar flow - howevere due to increase in resonance time can increase heat transfer coefficient in a laminar state
+>* the choice between laminar and turbulent flow will depend on application. With laminar flow preferred when flow patterns need to be more uniform, less erosion and wear is required and lower energy
 >* The efficiency however is calculated differently:
 
 ![image](https://github.com/user-attachments/assets/b8bc41d8-47c1-4497-832f-d9684c60d8dd)
