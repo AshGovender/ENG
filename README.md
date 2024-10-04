@@ -83,7 +83,14 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 
 
 >* Increasing boiler water flowrate increases heat transfer rate but reduces boiler capacity as less water is going throught the boiler - however a balance between these two are required
->* Important to note that flow patterns affect the overall heat transfer coefficient
+>* Important to note that flow patterns affect the overall heat transfer coefficient. You can determine if flow is laminar or turbulent using Reynolds number and then determine the value of U accordingly, as shown below:
+
+![image](https://github.com/user-attachments/assets/8d339158-b27c-4550-9227-43bd971aa4d9)
+
+![image](https://github.com/user-attachments/assets/074c92bd-782f-4dce-987e-18f7feaf3a4e)
+
+![image](https://github.com/user-attachments/assets/312fbcf8-8cc4-4530-837c-d61f7c869af3)
+
 >* Higher flowrate results in turbulent flow which increaseses the temperature gradient at the surface due to more mixing
 >* Lower flowrate results in laminar flow - howevere due to increase in resonance time can increase heat transfer coefficient in a laminar state
 >* the choice between laminar and turbulent flow will depend on application. With laminar flow preferred when flow patterns need to be more uniform, less erosion and wear is required and lower energy
@@ -110,6 +117,7 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 >* the energy balance equation across the boiler is given by:
 
 ![image](https://github.com/user-attachments/assets/033a6e64-c911-413b-832d-e96fda88ee45)
+
 ![image](https://github.com/user-attachments/assets/468cbe77-83c7-4338-8ad2-012036dcd60f)
 
 >* for saturated and superheated steam the terms for vaporization and superheated steam must be added:
