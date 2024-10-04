@@ -67,16 +67,14 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 >* To recover heat: can ensure optimal condensate recovery (stream traps working well, condensate sending water to make-up water tanks), installation of economizers to re-use heat from waste gas to heat make-up water
 >* Adjusting fuel source - effect on calorific value. Cleaner fuel has lower sulphur dioxide (good for emission reduction) but more expensive. Need balance.
 >* heat loss minimization: repair leaks in steam system, use insulation on piping
->* heat loss minimization: repair leaks in steam system, use insulation on piping
-
-
-
-
 >* the same logic of heat transfer as cooling towers applies. The heat load is how much steam is required by the process and boiler capacity is what the boiler can supply: difference will be in the values of heat transfer coefficient and the actual temperature vs idealized conditons for the heat load requirement:
 
 ![image](https://github.com/user-attachments/assets/ac940011-2357-4c92-a1be-2bd0d1d1694b)
+
 ![image](https://github.com/user-attachments/assets/ed6ff132-8362-4bfa-b791-7c1861143b21)
+
 ![image](https://github.com/user-attachments/assets/a7610ff7-4aea-412c-aee1-71ce7cfcd709)
+
 ![image](https://github.com/user-attachments/assets/a61e7104-f50a-447c-9015-09e5bdbaacc9)
 
 >* At the same time boiler heat transfer rate is important (UAdeltTLm) - this need to be sufficient enough to achieve the boiler capacity requirements
