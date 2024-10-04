@@ -112,6 +112,10 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 ![image](https://github.com/user-attachments/assets/033a6e64-c911-413b-832d-e96fda88ee45)
 ![image](https://github.com/user-attachments/assets/468cbe77-83c7-4338-8ad2-012036dcd60f)
 
+>* for saturated and superheated steam the terms for vaporization and superheated steam must be added:
+
+![image](https://github.com/user-attachments/assets/a3af5968-40d6-4803-a416-74a25bd277e9)
+
 >* the temperature of steam can be given by:
 
 ![image](https://github.com/user-attachments/assets/8516df9f-e3ef-4150-a926-a86da257514b)
