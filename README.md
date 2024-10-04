@@ -427,15 +427,25 @@ My role as process engineer was to the operations manager to optimize the coolin
 > * Installed new measurement devices and carried out a guage R&R study to ensure reliability of measurement system
 
 ## Understanding the Chemical Engineering Processes
+>* In crossflow cooling towers, water flows vertically while air flows horizontally across the water stream.
+>* In counterflow towers, air flows upward while water flows downward - this design allows for more heat transfer 
 >* The cooling capacity of the cooling tower can be given by the equation:
 
-![image](https://github.com/user-attachments/assets/dc40fd8f-bbe1-4c7b-9444-438c3b576ecf)
+![image](https://github.com/user-attachments/assets/91eafb15-251f-4725-b5d9-8ef08622bd57)
 
->* Decreasing the flowrate of water, decreases the cooling capacity but increases the heat transfer as a result of increase in resonance time - more contact time between water and cold air
+>* Decreasing the flowrate of water, decreases the cooling capacity but increases the heat transfer as a result of increase in resonance time - more contact time between water and cold air (laminar flow)
+>* flow patterns affect the overall heat transfer coefficient as with boilers - Re number can calculate whether turbulent or laminar flow. Then can determine Nu number and U value:
+
+![image](https://github.com/user-attachments/assets/8d339158-b27c-4550-9227-43bd971aa4d9)
+
+![image](https://github.com/user-attachments/assets/074c92bd-782f-4dce-987e-18f7feaf3a4e)
+
+![image](https://github.com/user-attachments/assets/312fbcf8-8cc4-4530-837c-d61f7c869af3)
+
 >* The design cooling capacity of the cooling tower is the maximum capacity that can be reached based on conditions at the time e.g. inlet temp, wet bulb temperature, filling etc.
 >* The actual cooling capacity is what the tower can actually do with inefficiencies
 >* The heat load calculated also by mcpdeltaT is what heat removal is required by the cooling tower
->* If the cooling tower can't match this - the output temperature required would not be reached in the given time
+>* If the cooling tower can't match this - the output water temperature required would not be reached in the given time
 >* Reducing the inlet temperature with pre-processing can reduce heat load required by cooling tower.
 
 ![image](https://github.com/user-attachments/assets/f6381561-f6a6-4741-9b32-9d22c58c7951)
@@ -444,11 +454,11 @@ My role as process engineer was to the operations manager to optimize the coolin
 >* Heat transfer area can be improved by increasing the tower height, packing and decreasing the fowling and scaling which decreases the area
 >* The fowling can be prevented by making sure there is sufficient blowdown and chemical treatement/dosing
 >* When the heat transfer rate increases, the cooling capacity increases
+>* Proper distribution in the tower can also ensure maximum usage of heat transfer surface area
 
 ![image](https://github.com/user-attachments/assets/566c0411-7975-4223-bcd3-fef1aedd19d4)
 
->* Increasing the air flow will increase the cooling efficiency by increasing the heat transfer coefficient, but also increase the fan power at a cubic increase. This means a balance must be achieved.
->* Increasing the fan speed wil increase airflow increasing the heat transfer coefficient and log temp which increases the heat transfer rate and hence the efficiency will be improved
+>* Increasing the air flow will increase the cooling efficiency by increasing the heat transfer coefficient (turbulent flow - air heat transfer coefficient increases), but also increase the fan power at a cubic increase. This means a balance must be achieved.
 
 ![image](https://github.com/user-attachments/assets/92e1484e-3506-481e-944a-7a629d9806a9)
 
@@ -460,6 +470,18 @@ My role as process engineer was to the operations manager to optimize the coolin
 ![image](https://github.com/user-attachments/assets/dccd4ef6-7fcc-4dc8-bfec-64079fb2891e)
 
 >* This can tell us if there is significant loss in system e.g. blowdown or drift losses or insufficient make up water replenishment
+>* The energy balance across the cooling tower can be given by:
+
+![image](https://github.com/user-attachments/assets/0d696dbf-b401-4796-8f2f-aecd3fa1fae1)
+
+![image](https://github.com/user-attachments/assets/a1b27cb8-9620-42c4-937a-ee3e20bd2537)
+
+![image](https://github.com/user-attachments/assets/3b9ce42e-24e5-4552-afa7-7ed471c1a482)
+
+![image](https://github.com/user-attachments/assets/5c8dcf11-a174-4576-b7ba-fd36051bf79b)
+
+
+
 
 What typical operational issues to look out for:
 >* poor airflow as a result of blockages in air inlets, fans, or fill material due to debris, dirt, or mechanical issues
