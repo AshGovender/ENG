@@ -73,7 +73,7 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 
 ![image](https://github.com/user-attachments/assets/ed6ff132-8362-4bfa-b791-7c1861143b21)
 
-![image](https://github.com/user-attachments/assets/a7610ff7-4aea-412c-aee1-71ce7cfcd709)
+ ![image](https://github.com/user-attachments/assets/a7610ff7-4aea-412c-aee1-71ce7cfcd709)
 
 ![image](https://github.com/user-attachments/assets/a61e7104-f50a-447c-9015-09e5bdbaacc9)
 
@@ -99,15 +99,13 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 
 >* The overall boiler efficiency can be given by - which is different from cooling towers:
 
-![image](https://github.com/user-attachments/assets/cb6db5ad-671d-4216-80df-f6e03b7f390f)
+![image](https://github.com/user-attachments/assets/b8bc41d8-47c1-4497-832f-d9684c60d8dd)
+
+![image](https://github.com/user-attachments/assets/3694f7ac-5d0a-4329-aa2b-4356d1a877e7)
 
 >* this can be decomposed into the equation below; using this decomposition, you can identify whether improvements need to be made in the combustion process (e.g., adjusting air-fuel ratio), heat transfer (e.g., cleaning heat exchangers), or load management (e.g., operating the boiler closer to its design capacity).
 
-![image](https://github.com/user-attachments/assets/b8bc41d8-47c1-4497-832f-d9684c60d8dd)
-
->* where the fuel energy input is given by:
-
-![image](https://github.com/user-attachments/assets/3694f7ac-5d0a-4329-aa2b-4356d1a877e7)
+![image](https://github.com/user-attachments/assets/cb6db5ad-671d-4216-80df-f6e03b7f390f)
 
 >* the mass balance equation across the boiler is given by:
 
