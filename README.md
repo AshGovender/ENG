@@ -714,6 +714,9 @@ To investigate and install a new dust extraction system in RMS powder weighing a
 ## Result
 Unit was successfully installed and safe operation was achieved. Area was tested and dust levels were within requirement of OHSA.
 
+<br />
+<br />
+
 # Project 12: Plate and Frame Heat Exchanger Optimization
 
 ![image](https://github.com/user-attachments/assets/e7430a56-934f-40c4-aab1-31349c23229e)
