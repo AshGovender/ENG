@@ -480,9 +480,6 @@ My role as process engineer was to the operations manager to optimize the coolin
 
 ![image](https://github.com/user-attachments/assets/5c8dcf11-a174-4576-b7ba-fd36051bf79b)
 
-
-
-
 What typical operational issues to look out for:
 >* poor airflow as a result of blockages in air inlets, fans, or fill material due to debris, dirt, or mechanical issues
 >* Excessive drift from too high airflow or drift eliminators not working efficiently
@@ -717,6 +714,108 @@ To investigate and install a new dust extraction system in RMS powder weighing a
 ## Result
 Unit was successfully installed and safe operation was achieved. Area was tested and dust levels were within requirement of OHSA.
 
+# Project 12: Plate and Frame Heat Exchanger Optimization
+
+![image](https://github.com/user-attachments/assets/e7430a56-934f-40c4-aab1-31349c23229e)
+
+## Problem Statement
+The heat exchanger at Kansai plascon were not operating efficiently resulting in water temperature not reaching desired ranges for steam bath. This was affecting the raw material and causing batch rejects.
+
+## Task/Action
+My role as process engineer was to assist the operations manager to optimize the plate and frame heat exchanger for efficiency and cost reduction
+
+> * Walked the process and developed a P&ID representing the system
+> * Developed a mass balance to account for water losses
+> * Developed an energy balance to account for energy losses
+> * Identified and mitigated issues for poor efficiency and heating as well as increased cost
+> * Developed a comprehensive report back to management for changes to be complete
+> * Carried out implementations
+> * Improvement of risk assessments, FMEA
+> * SOP modifications
+> * Improvement of plant maintenance schedules
+> * Carried out heat exchanger efficiency calculations
+
+## Understanding the Chemical Engineering Processes
+>* The heating capacity of the heat exchanger can be given by the equation:
+
+![image](https://github.com/user-attachments/assets/c5748086-e144-435b-b318-c47150cb4508)
+
+
+>* Decreasing the flowrate of water, decreases the heating capacity but increases the heat transfer as a result of increase in resonance time - more contact time between water and cold air (laminar flow)
+>* flow patterns affect the overall heat transfer coefficient as with boilers - Re number can calculate whether turbulent or laminar flow. Then can determine Nu number and U value:
+
+![image](https://github.com/user-attachments/assets/8d339158-b27c-4550-9227-43bd971aa4d9)
+
+![image](https://github.com/user-attachments/assets/074c92bd-782f-4dce-987e-18f7feaf3a4e)
+
+![image](https://github.com/user-attachments/assets/312fbcf8-8cc4-4530-837c-d61f7c869af3)
+
+>* The design exchanger capacity of the heat exchanger is the maximum capacity that can be reached based on conditions at the time e.g. inlet temp, wet bulb temperature, filling etc.
+>* The actual heating capacity is what the exchanger can actually do with inefficiencies
+>* The heat load calculated also by mcpdeltaT is what heat addition is required by the heat exchanger or how much the water needs to be heated
+>* If the cooling tower can't match this - the output water temperature required would not be reached in the given time
+>* Increasing the inlet temperature with pre-processing can reduce heat load required by heat exchanger 
+
+![image](https://github.com/user-attachments/assets/f6381561-f6a6-4741-9b32-9d22c58c7951)
+
+>* the heat transfer rate can be given by the above equation, as can be seen, the larger the surface area for heat transfer the greater the Q
+>* Heat transfer area can be improved by increasing the dimension of plates, decreasing fowling/scaling
+>* The fowling can be prevented by making sure there is sufficient blowdown and chemical treatement/dosing
+>* When the heat transfer rate increases, the heating capacity increases
+
+![image](https://github.com/user-attachments/assets/566c0411-7975-4223-bcd3-fef1aedd19d4)
+
+>* the efficienct of the heat exchanger is defined by the equation below:
+
+![image](https://github.com/user-attachments/assets/3a42ead4-d044-46b7-a2a2-36a9e9bbd9a5)
+
+![image](https://github.com/user-attachments/assets/b9ac1f95-942b-45d9-bc4e-55a37748b846)
+
+>* You can change the value of the Cp by changing the liquid to get better heat transfer
+
+![image](https://github.com/user-attachments/assets/dccd4ef6-7fcc-4dc8-bfec-64079fb2891e)
+
+>* This can tell us if there is significant loss in system e.g. blowdown or drift losses or insufficient make up water replenishment
+>* The energy balance across the heat exchanger can be given by:
+
+![image](https://github.com/user-attachments/assets/0d696dbf-b401-4796-8f2f-aecd3fa1fae1)
+
+![image](https://github.com/user-attachments/assets/a1b27cb8-9620-42c4-937a-ee3e20bd2537)
+
+![image](https://github.com/user-attachments/assets/3b9ce42e-24e5-4552-afa7-7ed471c1a482)
+
+![image](https://github.com/user-attachments/assets/5c8dcf11-a174-4576-b7ba-fd36051bf79b)
+
+What typical operational issues to look out for:
+>* poor airflow as a result of blockages in air inlets, fans, or fill material due to debris, dirt, or mechanical issues
+>* Excessive drift from too high airflow or drift eliminators not working efficiently
+>* Corrosion from corrosive nature of water - can occur due to lack of corrosion inhibitors during treatment. Can lead to structural damage, leaks and equipment failure
+>* Biological growth causing fowling as a result of incorrect treatment and lack of sufficient blowdown
+>* Excessive water loss due to too much blowdown, or drift or leaks
+>* Airflow reduction from mechanical issues in fans and motors
+>* Improper water distribution as a result of spray nozzles not working efficiently results in hot spots and reduces cooling efficiency
+>* Make-up water not at the required quality resulting in scale build up etc.
+>* Temperature control issues for measurement of inlet and outlet water temperature.
+
+Key implementations:
+> * Re-designed maintenance schedules to reduce fowling in the cooling tower and improve chemical treatment to improve cooling and reduce energy use
+> * Identified issues for fowling such as inadequate blowdown and poor chemical treatment - fixing this improved efficiency 
+> * Varied the chemical usage based on months when bacterial growth varies and this resulted in cost savings of chemical treatment
+> * Investigated the option of VSD for the fans to optimize energy use, improve efficiency. Increasing the fan airflow increases the rate of heat transfer but increases fan power with the cube of airflow. VSD's can balance this
+> * Optimizing of the water flow rate was done. Reducing the water flow rate increases the residence time in the cooling tower, improving heat transfer but also reducing the cooling capacity (rate of cooled water leaving the tower)
+> * Looking at ensuring maintenance of the filling - was able to improve heat transfer efficiency 
+
+## Data Sources
+Operational reports, meter readings, operator reports
+
+## Software libraries
+Excel was utilized for all calculations, Visio for P&ID
+
+## Data Analytics Methods
+Statistical and graphical analysis, mass and energy balances
+
+<br />
+<br />
 
 # Feasibility Studies
 
