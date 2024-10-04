@@ -89,10 +89,6 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 >* the choice between laminar and turbulent flow will depend on application. With laminar flow preferred when flow patterns need to be more uniform, less erosion and wear is required and lower energy
 >* We can also increase the heat transfer area as seen by the equation to improve the heat transfer rate. This can be done by ensuring proper blowdown or ensuring proper chemical treatment to prevent scaling
 >* Ensure water treatment is working effectively - to prevent scaling and corrosion. Monitor PH, dissolved solids and alkalinity of boiler water regularly
->* The heat lost due to blowdown can be given by the equation below:
-
-![image](https://github.com/user-attachments/assets/ac903ea9-51d9-4534-9506-fe5324ed3a3c)
-
 >* the optimum blowdown rate can be given by:
 
 ![image](https://github.com/user-attachments/assets/9f49e522-0c6b-498a-8df6-89504da90a45)
