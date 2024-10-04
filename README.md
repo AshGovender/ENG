@@ -60,18 +60,37 @@ Text cleaning, exploratory data analysis, hypothesis testing, MSA, statistical a
 The boiler at Kansai plascon was not adhering to environmental compliance in terms of particulate matter and sulphur dioxide fumes. This was resulting in fines and other prosecutions on site until compliance could be achieved. In addition, the boiler was operating inefficiently resulting in an increase of operating cost.
 
 ## Understanding the chemical engineering processes:
->* the boiler efficiency can be calculated using the equation below:
-
-![image](https://github.com/user-attachments/assets/d83cf46d-4cbc-4974-9e2f-42c31373a692)
-
->* Optimizing the air fuel ratio - mimimizes excess air which increases efficiency by reducing heat loss throught the flu gas. Excess air absorbs more heat, too little air results in incomplete combustion, reducing efficiency and increasing pollutants.
->* Reduce flu gas temperature - need to be hot enough to prevent condensation of acids but low enought to prevent excessive heat loss
+>* Optimizing the air fuel ratio - mimimizes excess air which increases efficiency by reducing heat loss throught the flu gas. Excess air absorbs more heat, too little air results in incomplete combustion, reducing efficiency and increasing pollutants (PPM) and resulting in soot build up. 
+>* Reduce flu gas temperature - need to be hot enough to prevent condensation of acids but low enough to prevent excessive heat loss
 >* This can be automated with control systems for controlling air and fuel supply (also saving fuel costs)
 >* Prior to this tuning of the burner can be done - for optimal combustion while reducing PPM emissions
 >* To recover heat: can ensure optimal condensate recovery (stream traps working well, condensate sending water to make-up water tanks), installation of economizers to re-use heat from waste gas to heat make-up water
->* Ensure water treatment is working effectively - to prevent scaling and corrosion. Monitor PH, dissolved solids and alkalinity of boiler water regularly
+>* Adjusting fuel source - effect on calorific value. Cleaner fuel has lower sulphur dioxide (good for emission reduction) but more expensive. Need balance.
 >* heat loss minimization: repair leaks in steam system, use insulation on piping
->* Proper planned maintenance to monitor blowdown, and boiler health
+>* heat loss minimization: repair leaks in steam system, use insulation on piping
+
+
+
+
+>* the same logic of heat transfer as cooling towers applies. The heat load is how much steam is required by the process and boiler capacity is what the boiler can supply: difference will be in the values of heat transfer coefficient and the actual temperature vs idealized conditons for the heat load requirement:
+
+![image](https://github.com/user-attachments/assets/ac940011-2357-4c92-a1be-2bd0d1d1694b)
+![image](https://github.com/user-attachments/assets/ed6ff132-8362-4bfa-b791-7c1861143b21)
+![image](https://github.com/user-attachments/assets/a7610ff7-4aea-412c-aee1-71ce7cfcd709)
+![image](https://github.com/user-attachments/assets/a61e7104-f50a-447c-9015-09e5bdbaacc9)
+
+>* At the same time boiler heat transfer rate is important (UAdeltTLm) - this need to be sufficient enough to achieve the boiler capacity requirements
+
+![image](https://github.com/user-attachments/assets/c46a0fcb-7ed8-4f70-ac59-a618e77cdaff)
+
+
+>* Increasing boiler water flowrate increases heat transfer rate but reduces boiler capacity as less water is going throught the boiler - however a balance between these two are required
+>* Important to note that flow patterns affect the overall heat transfer coefficient
+>* Higher flowrate results in turbulent flow which increaseses the temperature gradient at the surface due to more mixing
+>* Lower flowrate results in laminar flow - howevere due to increase in resonance time can increase heat transfer coefficient in a laminar state
+>* the choice between laminar and turbulent flow will depend on application. With laminar flow preferred when flow patterns need to be more uniform, less erosion and wear is required and lower energy
+>* We can also increase the heat transfer area as seen by the equation to improve the heat transfer rate. This can be done by ensuring proper blowdown or ensuring proper chemical treatment to prevent scaling
+>* Ensure water treatment is working effectively - to prevent scaling and corrosion. Monitor PH, dissolved solids and alkalinity of boiler water regularly
 >* The heat lost due to blowdown can be given by the equation below:
 
 ![image](https://github.com/user-attachments/assets/ac903ea9-51d9-4534-9506-fe5324ed3a3c)
@@ -80,19 +99,11 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 
 ![image](https://github.com/user-attachments/assets/9f49e522-0c6b-498a-8df6-89504da90a45)
 
->* Adjusting fuel source - effect on calorific value. Cleaner fuel has lower sulphur dioxide (good for emission reduction) but more expensive. Need balance.
->* The overall boiler efficiency can be given by:
+>* The overall boiler efficiency can be given by - which is different from cooling towers:
 
 ![image](https://github.com/user-attachments/assets/cb6db5ad-671d-4216-80df-f6e03b7f390f)
 
->* the same logic of heat transfer as cooling towers applies. The heat load is how much heat transfer is required to produce required steam and the boiler capacity (mcpdeltaT) must provide this
->* At the same time boiler heat transfer rate is important (UAdeltTLm)
->* Increasing boiler water flowrate increases heat transfer rate but reduces boiler capacity as less water is going throught the boiler - however a balance between these two are required
->* Important to note that flow patterns affect the overall heat transfer coefficient
->* Higher flowrate results in turbulent flow which increaseses the temperature gradient at the surface due to more mixing
->* Lower flowrate results in laminar flow - howevere due to increase in resonance time can increase heat transfer coefficient in a laminar state
->* the choice between laminar and turbulent flow will depend on application. With laminar flow preferred when flow patterns need to be more uniform, less erosion and wear is required and lower energy
->* The efficiency however is calculated differently:
+>* this can be decomposed into the equation below; using this decomposition, you can identify whether improvements need to be made in the combustion process (e.g., adjusting air-fuel ratio), heat transfer (e.g., cleaning heat exchangers), or load management (e.g., operating the boiler closer to its design capacity).
 
 ![image](https://github.com/user-attachments/assets/b8bc41d8-47c1-4497-832f-d9684c60d8dd)
 
@@ -124,6 +135,7 @@ The boiler at Kansai plascon was not adhering to environmental compliance in ter
 >* Excessive airflow leading to excess heat loss and PPM levels exceeding legislative requirements
 >* Thermals stresses on fire tubes as a result of sudden temperature changes e.g. feed water temp
 >* water quality or water carry over issues e.g. incorrect steam traps/seperation equipment
+>* High pressure can increase the saturation temperature of steam
 
 
 
