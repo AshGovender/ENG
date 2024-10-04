@@ -760,7 +760,7 @@ My role as process engineer was to assist the operations manager to optimize the
 
 >* the heat transfer rate can be given by the above equation, as can be seen, the larger the surface area for heat transfer the greater the Q
 >* Heat transfer area can be improved by increasing the dimension of plates, decreasing fowling/scaling
->* The fowling can be prevented by making sure there is sufficient blowdown and chemical treatement/dosing
+>* The fowling can be prevented by making sure there is sufficient chemical treatement/dosing
 >* When the heat transfer rate increases, the heating capacity increases
 >* the efficiency of the heat exchanger is defined by the equation below:
 
@@ -769,10 +769,6 @@ My role as process engineer was to assist the operations manager to optimize the
 ![image](https://github.com/user-attachments/assets/b9ac1f95-942b-45d9-bc4e-55a37748b846)
 
 >* You can change the value of the Cp by changing the liquid to get better heat transfer
-
-![image](https://github.com/user-attachments/assets/dccd4ef6-7fcc-4dc8-bfec-64079fb2891e)
-
->* This can tell us if there is significant loss in system e.g. blowdown or drift losses or insufficient make up water replenishment
 >* The energy balance across the heat exchanger can be given by:
 
 ![image](https://github.com/user-attachments/assets/5da0ce3e-945c-4bdf-b0d3-381f5b135cfc)
