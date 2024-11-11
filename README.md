@@ -187,7 +187,7 @@ Statistical and graphical analysis, mass and energy balances
 The maintenance system at Kansai Plason was suffering from several operational issues that were resulting increased downtimes and lack of traceability. Upon further investigation it was found that the planned maintenance system was not working effectively and there was no maintenance reporting tool that was available to identify an mitigate maintenance related job card issues. 
 
 ## Task/Action
-My role as process engineer was to assist the maintenance department by redesigning the planned mainteance system as well as developing a reporting tool that would allow for transparency within the maintenance department. The following was done:
+My role as process engineer was to assist the maintenance department by redesigning the planned mainteance system as well as to develop a reporting tool that would allow for transparency within the maintenance department. The following was done:
 
 PM Restructure: 
 > * Reviewed maintenance process and SAP structure with MES engineer and TL
@@ -195,19 +195,19 @@ PM Restructure:
 > * Developed "To be" process flow
 > * Developed  "Future state" process flow
 > * Developed and reviewed final process flow with stakeholders and developed an action list
-> * Extracted information from SAP transaction showing PM's over the last few years and created an Excel based databack showing gaps in data structure
+> * Extracted information from SAP transaction showing PM's over the last few years and created an Excel based datapack showing gaps in data structure
 > * Developed an equipment KPI tree to determine resources on site
-> * Developed and utilized an equipment frequency matrix to determine gaps in PM alerts and to reassign frequencies based on legal and operational requirements, remove redundant PM activities and include missing PM's based on all equipment identified
+> * Developed and utilized an equipment frequency matrix to determine gaps in PM alerts and to reassign frequencies based on legal and operational requirements (ISO-18001), removed redundant PM activities and included missing PM's based on all equipment identified
 > * Worked with MES engineer to redesign and install functional locations based on site plan and SAP rules
-> * Created and Excel based control document for PM Checksheets, PM's and functional locations that would work in tandem with SAP to streamline planned maintenance activities
->* worked with team to carry out detailed analysis of PM tasks for each checksheet (required indepth plant study of exactly what maintenance would be required for each piece of equipment based on OHSA and operational requirements for various frequencies)
->* Installed new equipment, PM's onto SAP
+> * Created an Excel based control document for PM Checksheets, PM's and functional locations that would work in tandem with SAP to streamline planned maintenance activities
+>* worked with team to carry out detailed analysis of PM tasks for each checksheet (required indepth plant study of exactly what maintenance would be required for each piece of equipment based on OHSA and operational requirements at different time intervals)
+>* Installed new equipment, PM's and checksheets onto SAP
 > * Training and SOP modification
 
 Maintenance Analytics:
 > * Identified SAP sources of maintenance info and generated a draft visual dashboard of key KPI's
 > * Reviewed changes and ammended with key stakeholders
-> * Trial tool and made ammendments
+> * Trial tool developed
 > * Creation of final dashboard
 > * Created and enforce correct data entry on SAP with mistake proofing
 > * Training and handover
