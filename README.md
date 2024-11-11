@@ -13,7 +13,7 @@
 > * [Data Science Methadology (Coursera - IBM)] - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/NXGZBLFKJ8QR)
 > * Machine Learning With Python (Coursera - IBM) - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/VZTZQQPXC4SB))
 > * Lean Six Sigma Yellow Belt (2014) – Dow Chemicals
-> * Other Internal Company Courses (CAPA Work Process Overview, Common Improvement Tools, Exposure to Hazardous Chemicals, Reactive Chemical Training, Fault Tree > > * Analysis, Ergonomic Awareness Training, ISO 14001 Understanding, Root Cause Analysis, Paint Technology, Diversity and Inclusion, Lean Basics (2013-2014)
+> * Other Internal Company Courses (CAPA Work Process Overview, Common Improvement Tools, Exposure to Hazardous Chemicals, Reactive Chemical Training, Fault Tree Analysis, Ergonomic Awareness Training, ISO 14001 Understanding, Root Cause Analysis, Paint Technology, Diversity and Inclusion, Lean Basics (2013-2014)
 > * Pressure Vessel and Tank Design (2017) – Engineers for Africa
 > * Chemical Risk Assessment Masterclass (2022) – Sedulitis
 > * Investigate and Intiate Hearings (2022) - Global Business Solutions
@@ -26,7 +26,7 @@
 ![](/assets/img/Back.PNG)
 
 ## Problem Statement
-Backorders at a paint company was resulting in 50 million rands loss of revenue. This was also resulting in poor customer satisfaction and poor service levels. With impending market share competition, this needs to be resolved to ensure mainteanance and further entry into the market.
+Backorders at the company I worked for was resulting in 50 million rands loss of revenue. This was also resulting in poor customer satisfaction and poor service levels. With impending market share competition, this needs to be resolved to ensure maintenance and further entry into the market.
 
 ## Task/Action
 As part of my positions as process engineer, I worked with the head of supply chain as project lead to employ the DMAIC methadology to reduce backorders through identification and mitigation of pertinent issues. The tools below were used:
@@ -41,7 +41,7 @@ As part of my positions as process engineer, I worked with the head of supply ch
 Backorder reports, Sales Reports (Qlikview and SAP)
 
 ## Results 
-The backorder investigation identified various reasons for backorders across the value chain. This included issues with forecasting and sales, as well as production related issues for certain process streams, stock health issues, lead time issues, production complexities. Mitigation measures were put in place such as capacity and manpower increases in certain sections, forecast accuracy improvements, re-adjustment of stock health monitoring tool zones, lead time adjustments, recipe formulation changes and product cycle time improvements. Overall loss of sales revenue reduces by 15% compared to the benchmark year and ultimately increased capacity in pivotal process streams.
+The backorder investigation identified various reasons for backorders across the value chain. This included issues with forecasting and sales, as well as production related issues for certain process streams, stock health issues, lead time issues, production complexities. Mitigation measures were put in place such as capacity and manpower increases in certain sections, forecast accuracy improvements, re-adjustment of stock health monitoring tool zones, lead time adjustments, recipe formulation changes and product cycle time improvements. Overall loss of sales revenue reduced by 15% compared to the benchmark year and ultimately increased capacity in pivotal process streams.
 
 ## Python libraries
 PyPI(pymsavis) for MSA ,scipy(stats) for capability analysis & hypothesis testing & SPC, matplotlib, seaborne, Pandas, Numpy etc.
