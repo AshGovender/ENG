@@ -303,7 +303,8 @@ Cycle times for the Durban and Johannesburg plants were too high - this was resu
 My role as process engineer was to lead a cross functional team (maintenance, production, filling, packaging, raws and procurement) to effectively identify issues with cycle time and reduce this accordingly. By job was also to establish a tracking measure to identify improvement over time. The following was accomplished:
 
 >* Developed the sites first statistical process control model and rolled out in both Johannesburg and Durban sites
->* Developed a annual reporting measure using MES data and carried out monthly reporting and troubleshooting with team to identify and mitigate issues
+>* Implemented OEE on site
+>* Developed an annual reporting measure using MES data and carried out monthly reporting and troubleshooting with team to identify and mitigate issues
 >* Tracked and worked with team to implement various projects
 
 Example implementations:
@@ -319,7 +320,7 @@ Example implementations:
 >* Changed over from pot washing to high pressure cleaning which improved clean pot throughput and improved quality
 >* Addressing FTR(first time right) issues
 >* Lean six sigma project to reduce extras (which is left over product in the tank which can't be filled due to incorrect labelled packaging being supplied). This enabled a reduction in lead time
->* Carried out a PDCA project on slow resins which were resulting in increased cycle times. Evaluated and identified that the resin was thixotropic and heat sensitive and this was not catered for when it was outsourced. The lack of using a thinning time to warm the product as was done on site when it was internally manufactured resulted in colder months making the product much more viscous and slowing the fill rate. Adjusted specification and adjusted pump pressure to cater for the increased head losses. Lab experiments were also done to prove the dependency on temperature. 
+>* Carried out a PDCA project on slow resins which were resulting in increased cycle times. Evaluated and identified that the resin was thixotropic and heat sensitive and this was not catered for when it was outsourced. The lack of using a thinning tank to warm the product as was done on site when it was internally manufactured resulted in colder months making the product much more viscous and slowing the fill rate. Adjusted specification and adjusted pump pressure to cater for the increased head losses. Lab experiments were also done to prove the dependency on temperature. 
 
 
 ## Results
