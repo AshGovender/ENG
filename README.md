@@ -814,11 +814,11 @@ Statistical and graphical analysis, mass and energy balances
 The following feasibility studies were done to assist R&D, operations and manufacturing to make decisions and implement projects:
 
 * Benefits of outsourcing filling operations e.g. 1L lines
-* Removal or replacement of raws in batches and its effect on cost e.g. INT replacement
-* Determining feasibility of new equipment installation of efficency and cost e.g. introduction of a bag destuffing unit
-* Switch pot cleaning from pot cleaner to HP cleaning and its effect on cost
-* Boiler fuel replacement
-* Recipe formulation changes and its impact
-* Effect of changing product streams
+* Removal or replacement of raws in batches and calculating its effect on cost e.g. INT replacement
+* Determining feasibility of new equipment installations for efficency and cost e.g. introduction of a bag destuffing unit
+* Switching processes and operations e.g. switching from pot cleaning to HP cleaning and calculating its effect on cost and efficiency
+* Boiler fuel replacement for enviromental and cost benefits
+* Recipe formulation changes and its impact on cost and cycle times
+* Effect of changing the recipe of certain products
 * Effect and benefit of increasing capacity on a particular stream
-* Moving products to other sites e.g. Durban to PE and its impact
+* Moving products to other sites e.g. Durban to PE and its impact on cost and efficiency
