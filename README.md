@@ -11,7 +11,9 @@
 
 # Courses
 > * [Data Science Methadology (Coursera - IBM)] - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/NXGZBLFKJ8QR)
-> * Machine Learning With Python (Coursera - IBM) - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/VZTZQQPXC4SB))
+> * [Machine Learning With Python (Coursera - IBM)] - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/VZTZQQPXC4SB))
+> * [What is data Science (Coursera - IBM) - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/53RSG56RICZF))
+> * [Data Analysis With Python (Coursera - IBM) - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/TXWTZ1Y5K6J8))
 > * Lean Six Sigma Yellow Belt (2014) – Dow Chemicals
 > * Other Internal Company Courses (CAPA Work Process Overview, Common Improvement Tools, Exposure to Hazardous Chemicals, Reactive Chemical Training, Fault Tree Analysis, Ergonomic Awareness Training, ISO 14001 Understanding, Root Cause Analysis, Paint Technology, Diversity and Inclusion, Lean Basics (2013-2014)
 > * Pressure Vessel and Tank Design (2017) – Engineers for Africa
